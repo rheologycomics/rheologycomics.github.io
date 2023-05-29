@@ -96,7 +96,7 @@ en: &DEFAULT_EN
   team:
     title: "OUR TEAM"
     #text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Educational Consultants: Victoria Russell and Kelsey Briselli; Translators: Yuna Hattori, Sandrine Burriel, Foteini Delisavva, and Paniz Haghighi
+    subtext: Educational Consultants Victoria Russell and Kelsey Briselli; Translators Yuna Hattori, Sandrine Burriel, Foteini Delisavva, and Paniz Haghighi
     section: team
     people:
       - name: "Rob Campbell"
