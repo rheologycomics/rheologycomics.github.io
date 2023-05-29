@@ -70,8 +70,9 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    #text: ""
+    subtext: Funded by the [Society of Rheology](https://www.rheology.org/sor/)'s Rheology Venture Fund (2023).
+    body: "Rheology is fun! It connects our intuitive experience of texture and touch to all kinds of cutting edge science and applications. But when we talk about rheology research, things get technical fast. The Rheology Comics project is a series of 4 short comics designed to help readers connect these technical details to the joys of rheology. Each comic is aimed at a middle school audience (roughly ages 10-13), and will be available in print and online in English and 7 other languages. Issue #1, “Rheology of Cats,” covers the basics of stress and strain to help us ask if cats are solid or liquid. Look for it in English and Greek at ICR 2023!"
     section: about
 
   clients:
@@ -93,41 +94,41 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "OUR TEAM"
+    #text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: Educational Consultants: Victoria Russell and Kelsey Briselli; Translators: Yuna Hattori, Sandrine Burriel, Foteini Delisavva, and Paniz Haghighi
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Rob Campbell"
+        role: "Project Lead"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          #- url: https://twitter.com
+          #  icon: fab fa-twitter
+          #- url: https://facebook.com
+          #  icon: fab fa-facebook-f
+          - url: https://www.linkedin.com/in/rob10campbell/
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Caroline Martin"
+        role: "Art Director"
         image: assets/img/team/2.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          #- url: https://twitter.com
+          #  icon: fab fa-twitter
+          #- url: https://facebook.com
+          #  icon: fab fa-facebook-f
+          - url: https://www.linkedin.com/in/carolinemartin/
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+      #- name: "Diana Perterson"
+      #  role: "Lead Developer"
+      #  image: assets/img/team/500x500.jpg
+      #  social:
+      #    - url: https://twitter.com
+      #      icon: fab fa-twitter
+      #    - url: https://facebook.com
+      #      icon: fab fa-facebook-f
+      #    - url: https://linkedin.com
+      #      icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
