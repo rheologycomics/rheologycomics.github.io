@@ -70,8 +70,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "Funded by the Society of Rheology's Rheology Venture Fund (2023)."
-    body: Rheology is fun! It connects our intuitive experience of texture and touch to all kinds of cutting edge science and applications. But when we talk about rheology research, things get technical fast. <br> The Rheology Comics project is a series of four short comics designed to help readers connect these technical details to the joys of rheology. Each comic is aimed at a middle school audience (roughly ages 10-13), and will be available in print and online in English and 7 other languages. <br> Issue \#1, “Rheology of Cats,” covers the basics of stress and strain to help us ask if cats are solid or liquid. <br> Look for it in English and Greek at ICR 2023! [testlink](https://www.rheology.org/sor/)
+    #text: "Funded by the Society of Rheology's Rheology Venture Fund (2023)."
+    body: Rheology is fun! It connects our intuitive experience of texture and touch to all kinds of cutting edge science and applications. But when we talk about rheology research, things get technical fast. <br><br> The Rheology Comics project is a series of four short comics designed to help readers connect these technical details to the joys of rheology. Each comic is aimed at a middle school audience (roughly ages 10-13), and will be available in print and online in English and 7 other languages. Issue \#1, “Rheology of Cats,” covers the basics of stress and strain to help us ask if cats are solid or liquid. <br><br> Look for it in English and Greek at ICR 2023! <br><br><br> Rheology Comics is funded by the [Society of Rheology](https://www.rheology.org/sor/)'s Rheology Venture Fund (2023).
     section: about
 
   clients:
