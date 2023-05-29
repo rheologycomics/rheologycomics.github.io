@@ -99,7 +99,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Rob Campbell"
-        role: "Project Lead"
+        role: "Project Lead (he/they)"
         image: assets/img/team/Rob.jpeg
         #image: assets/img/team/500x500.jpg
         social:
