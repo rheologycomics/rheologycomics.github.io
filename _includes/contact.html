@@ -15,18 +15,20 @@
     </div>
   
     <!-- Social Media -->
-    <div class="col-md-4">
-      <ul class="list-inline social-buttons">
-        {% for link in site.data.sitetext[site.locale].contact.social %}
-        <li class="list-inline-item">
-          {% if link.url %}
-          <a href="{{ link.url }}">
-            {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
-          </a>
-          {% endif %}
-        </li>
-        {% endfor %}
-      </ul>
+    <div class="row">
+      <div class="col-md-4 text-center">
+        <ul class="list-inline social-buttons">
+          {% for link in site.data.sitetext[site.locale].contact.social %}
+          <li class="list-inline-item">
+            {% if link.url %}
+            <a href="{{ link.url }}">
+              {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
+            </a>
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
     </div>
   </div>
 </section>
