@@ -109,8 +109,8 @@ en: &DEFAULT_EN
           #  icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/rob10campbell/
             icon: fab fa-linkedin-in
-      - name: "Caroline Martin (she/her)"
-        role: "Art Director"
+      - name: "Caroline Martin"
+        role: "Art Director (she/her)"
         image: assets/img/team/Caroline.jpg
         social:
           #- url: https://twitter.com
