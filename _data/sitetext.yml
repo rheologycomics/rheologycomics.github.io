@@ -132,7 +132,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Follow us on Instagram or Email us at rheologycomics@gmail.com" 
+    text: "Follow us on Instagram or email us at rheologycomics@gmail.com" 
     social:
       #- url: https://twitter.com
       #  icon: "fab fa-twitter"
@@ -145,7 +145,7 @@ en: &DEFAULT_EN
       - url: https://instagram.com/rheologycomics
         icon: "fab fa-instagram"
       - url: mailto:rheologycomics@gmail.com
-        icon: "fab fa-envelope"
+        icon: "fa-envelope"
     #section: contact
     #name: "Name*"
     #name-validation: "Please enter your name."
