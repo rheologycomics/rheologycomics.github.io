@@ -100,7 +100,8 @@ en: &DEFAULT_EN
     people:
       - name: "Rob Campbell"
         role: "Project Lead"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/Rob.jpeg
+        #image: assets/img/team/500x500.jpg
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
