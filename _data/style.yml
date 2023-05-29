@@ -5,4 +5,4 @@
 
 #Image Customization
 header-image: "../img/bowlcat-headerwhite-bg.png"
-contact-image: "../img/map-image.png"
+contact-image: #"../img/map-image.png"
