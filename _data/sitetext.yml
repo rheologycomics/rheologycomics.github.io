@@ -144,6 +144,8 @@ en: &DEFAULT_EN
       #  icon: "fab fa-github"
       - url: https://instagram.com/rheologycomics
         icon: "fab fa-instagram"
+      - url: mailto:rheologycomics@gmail.com
+        icon: "fab fa-envelope"
     #section: contact
     #name: "Name*"
     #name-validation: "Please enter your name."
