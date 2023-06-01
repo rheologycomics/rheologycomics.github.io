@@ -22,7 +22,7 @@ email      : rheologycomics@gmail.com #this is also the email contact forms will
 description: "Comics about rheology!"
 author     : 
 logo:     #optional, defaults to site title
-  path: assets\img\bowlcat.png
+  path: assets\img\bowlcat_text_transparent.png
   height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
