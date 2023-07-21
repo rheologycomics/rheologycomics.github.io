@@ -1,11 +1,11 @@
 ---
 title: Issue 2
-subtitle: Coming Soon 
+#subtitle: Coming Soon 
 image: assets/img/portfolio/RC-tbd-full.png
 alt: Placehoder image that says Coming Soon
 
 caption:
-  title: Issue \#2
+  title: Issue 2
   subtitle: Coming Soon
   thumbnail: assets/img/portfolio/RC-tbd-thumbnail.jpg
 ---

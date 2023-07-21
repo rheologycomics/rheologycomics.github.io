@@ -1,6 +1,6 @@
 ---
 title: Rheology of Cats
-subtitle: Are cats solid or liquid? 
+#subtitle: Are cats solid or liquid? 
 image: assets/img/portfolio/RC01-full.png
 alt: Three cartoon cats, one sitting as a solid, one sloshing in a bowl as lliquid, and one stretching it's body across the page in loops.
 
