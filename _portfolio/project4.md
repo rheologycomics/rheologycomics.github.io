@@ -1,13 +1,13 @@
 ---
 title: Issue 4
 #subtitle: Coming Soon 
-image: assets/img/portfolio/RC-tbd-full.png
+image: assets/img/portfolio/RC-04-full.png
 alt: Placehoder image that says Coming Soon
 
 caption:
   title: Issue 4
   subtitle: Coming Soon
-  thumbnail: assets/img/portfolio/RC-tbd-thumbnail.png
+  thumbnail: assets/img/portfolio/RC-04-thumbnail.png
 ---
 Issue 4 will be announced later this year!
 
