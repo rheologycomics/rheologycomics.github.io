@@ -7,7 +7,7 @@ alt: Placehoder image that says Coming Soon
 caption:
   title: Issue 3
   subtitle: Coming Soon
-  thumbnail: /assets/img/portfolio/RC-03-thumbnail.jpg
+  thumbnail: /assets/img/portfolio/RC-03-thumbnail.png
 ---
 Issue 3 will be announced later this year!
 
