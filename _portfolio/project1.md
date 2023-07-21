@@ -1,18 +1,18 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Rheology of Cats
+subtitle: Are cats solid or liquid? 
+image: assets/img/portfolio/RC01-full.jpg
+alt: Three cartoon cats, one sitting as a solid, one sloshing in a bowl as lliquid, and one stretching it's body across the page in loops.
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Issue \#1
+  subtitle: Rheology of Cats
+  thumbnail: assets/img/portfolio/RC01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Inspired by M.A. Fardin’s Ig Nobel Prize winning article “On the rheology of cats” (2014), this comic describes the fundamentals of rheology with the aid of our favorite felines. Coming August 2023.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: August 2023
+- Title: Rheology of Cats
+- Issue: 1
 

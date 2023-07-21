@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/04-full.jpg
-alt: 
+title: Issue \#4
+subtitle: Coming Soon 
+image: assets/img/portfolio/RC-tbd-full.jpg
+alt: Placehoder image that says \"Coming Soon\"
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: Issue \#4
+  subtitle: Coming Soon
+  thumbnail: assets/img/portfolio/RC-tbd-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Issue \#4 will be announced later this year!
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- Date: August 2023
+- Title:
+- Issue: 4
 
