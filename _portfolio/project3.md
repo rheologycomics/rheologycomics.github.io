@@ -1,13 +1,13 @@
 ---
-title: Issue \#3
+title: Issue 3
 subtitle: Coming Soon 
-image: assets/img/portfolio/RC-tbd-full.jpg
+image: ../assets/img/portfolio/RC-tbd-full.jpg
 alt: Placehoder image that says \"Coming Soon\"
 
 caption:
-  title: Issue \#3
+  title: Issue 3
   subtitle: Coming Soon
-  thumbnail: assets/img/portfolio/RC-tbd-thumbnail.jpg
+  thumbnail: ../img/portfolio/RC-tbd-thumbnail.jpg
 ---
 Issue \#3 will be announced later this year!
 
