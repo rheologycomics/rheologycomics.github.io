@@ -4,5 +4,6 @@ layout: default
 {% include navheader.html %}
 
 {% include about.html %}
+{% include portfolio.html%}
 {% include team.html %}
 {% include contact.html %}
