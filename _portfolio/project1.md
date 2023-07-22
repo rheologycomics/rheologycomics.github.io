@@ -6,7 +6,7 @@ alt: Three cartoon cats, one sitting as a solid, one sloshing in a bowl as lliqu
 
 caption:
   title: Rheology of Cats 
-  subtitle: Rheology Comics No. 1
+  subtitle: Rheology Comics 1
   thumbnail: assets/img/portfolio/RC01-thumbnail.png
 ---
 Inspired by M.A. Fardin’s Ig Nobel Prize winning article “On the rheology of cats” (2014), this comic describes the fundamentals of rheology with the aid of our favorite felines. 
