@@ -5,8 +5,11 @@
 @import "base/variables.scss";
 @import "base/mixins.scss";
 
-// Custom colors // default highlight was yellow #fed136
-$primary: {{ site.data.style.highlight | default: "#cdbac2" }} !default;
+// Custom colors 
+/// default highlight was yellow #fed136
+/// bowlcat bowl color was #cdbac2
+/// Rheology of Cats purple is #59247b
+$primary: {{ site.data.style.highlight | default: "#59247b" }} !default;
 $white: {{ site.data.style.white | default: "#fff" }} !default;
 $black: {{ site.data.style.black | default: "#000" }} !default;
 
