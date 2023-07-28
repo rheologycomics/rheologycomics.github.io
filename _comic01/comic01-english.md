@@ -12,6 +12,4 @@ Download PDF *Coming Soon*
 
 Web-based vertical scroll version *Coming Soon*
 
-![English Cover: Rheology of Cats]
-
-[/assets/img/comic01/comic01-english/rc1_01FC.png]
+![English Cover: Rheology of Cats][/assets/img/comic01/comic01-english/rc1_01FC.png]
