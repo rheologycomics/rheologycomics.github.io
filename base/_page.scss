@@ -53,12 +53,14 @@ h6 {
 
 // Highlight color customization
 ::-moz-selection {
-  background: '#d5cddd';
+  background: lighten($primary, 40%);
+  color: white
   text-shadow: none;
 }
 
 ::selection {
-  background: '#d5cddd';
+  background: lighten($primary, 40%);
+  color: white
   text-shadow: none;
 }
 
