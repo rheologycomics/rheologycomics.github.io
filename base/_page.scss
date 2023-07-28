@@ -11,7 +11,7 @@ p {
 a {
   color: $primary;
   &:hover {
-    color: lighten($primary, 30%);
+    color: lighten($primary, 80%);
   }
 }
 
