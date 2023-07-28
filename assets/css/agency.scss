@@ -10,7 +10,7 @@
 /// bowlcat bowl color was #cdbac2
 /// Rheology of Cats purple is #59247b
 /// bowl-rheocats midpoint: #936F9F
-$primary: {{ site.data.style.highlight | default: "#936F9F" }}; // !default;
+$primary: {{ site.data.style.highlight | default: "#936F9F" }} !default;
 $white: {{ site.data.style.white | default: "#fff" }} !default;
 $black: {{ site.data.style.black | default: "#000" }} !default;
 
