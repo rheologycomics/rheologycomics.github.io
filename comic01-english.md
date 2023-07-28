@@ -12,4 +12,4 @@ Download PDF *Coming Soon*
 
 Web-based vertical scroll version *Coming Soon*
 
-![name of the image][{{site.url}}/assets/img/comic01/comic01-english/rc1_01FC.png]
+![name of the image][/assets/img/comic01/comic01-english/rc1_01FC.png]
