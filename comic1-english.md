@@ -2,7 +2,7 @@
 layout: page
 title: Rheology of Cats 
 image_paths:
-  - ![](/assets/img/comic01/comic01-english/RC01-full.png
+  - ![](/assets/img/comic01/comic01-english/RC01-full.png)
   - ![](/assets/img/comic01/comic01-english/RC01-full.png)
   - ![](assets/img/comic01/comic01-english/RC01-full.png)
 ---
