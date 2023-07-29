@@ -10,5 +10,8 @@ document.getElementById("page-top").className="bg-light";
 {% endif %}
 
 <div class="container" id="pagecontainer">
-{{ content }}
+  {{ content }}
+  <div class="image-column">
+    {{ page.image_paths | join: "" }}
+  </div>
 </div>
