@@ -13,7 +13,7 @@ Inspired by M.A. Fardin’s Ig Nobel Prize winning article “On the rheology of
 Coming August 2023.
 
 {:.list-inline}
-- [English](comic1-english): August 2023
+- English: August 2023
 - Greek: August 2023
 - French: August 2023
 - Persian: August 2023
