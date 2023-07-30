@@ -69,3 +69,13 @@ img::selection {
 img::-moz-selection {
   background: transparent;
 }
+
+/* CSS styles for centering images */
+.image-column {
+  display: flex;
+  justify-content: center;
+}
+
+.centered-image {
+  max-width: 100%;
+}
