@@ -12,7 +12,7 @@ image_paths:
            Download for a Comics Reader (<a href="{{ site.url }}/downloads/comic1-english/RC1-English.cbz">CBZ</a>)
         </div>
         <div class="text-muted">
-           Download PDF (<a href="{{ site.url }}/downloads/comic1-english/RC1-English.png">PDF</a>)
+           Download PDF (<a href="{{ site.url }}/downloads/comic1-english/RC1-English.pdf">PDF</a>)
         </div>
         <div class="text-muted">
            <a href="https://forms.gle/YxFdry5rYfWbbZVBA">Give Feedback</a>
