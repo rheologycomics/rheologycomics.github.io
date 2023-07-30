@@ -8,19 +8,22 @@ image_paths:
 	<h2 class="section-heading text-uppercase">Rheology of Cats (English)</h2>
 </div>
 
-Download for a Comics Reader (CBZ File) *Coming Soon*
+[Download for a Comics Reader (CBZ File)][1]
 
-Download PDF *Coming Soon* <a id="raw-url" href="https://github.com/rheologycomics/rheologycomics.github.io/blob/landing-only/assets/img/comic01/comic01-english/RC01-full.png" title="Download" download>test download</a>
+[Download PDF][2]
 
-some text and [here is possible to download the file in PDF][1]
 
 [1]:{{ site.url }}/downloads/comic1-english/RC01-full.png
+[2]:{{ site.url }}/downloads/comic1-english/RC01-full.png
 
-Web-based vertical scroll version *Coming Soon*
+Web-based vertical scroll version:
 
 
-<img src="assets/img/comic01/comic01-english/RC01-full.png"
-     alt="Front Cover"
-     style="float: center" />
+<div class="image-column">
+  <img src="assets/img/comic01/comic01-english/RC01-full.png"
+       alt="Front Cover"
+       class="centered-image" />
+</div>
 
-![name of the image] /assets/img/comic01/comic01-english/rc01_FC.png]
+
+
