@@ -8,9 +8,14 @@ image_paths:
 	<h2 class="section-heading text-uppercase">Rheology of Cats (English)</h2>
 </div>
 
-[Download for a Comics Reader (CBZ File)][1]
 
-[Download PDF][2]
+<div class="text-center">
+  [Download for a Comics Reader (CBZ File)][1]
+
+  [Download PDF][2]
+
+  Web-based vertical scroll version:
+</div>
 
 
 [1]:{{ site.url }}/downloads/comic1-english/RC01-full.png
