@@ -16,7 +16,7 @@ image_paths:
         </div>
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; margin-bottom: 30px;">
   {% for image in page.image_paths %}
     <img src="{{ image.path }}" alt="{{ image.alt }}" style="max-width: 100%; height: auto; margin: 10px;">
   {% endfor %}
