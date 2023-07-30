@@ -9,13 +9,11 @@ image_paths:
 </div>
 
 
-<div style="text-align: center; display: inline-block;">
-  [Download for a Comics Reader (CBZ File)][1]
+[Download for a Comics Reader (CBZ File)][1]
 
-  [Download PDF][2]
+[Download PDF][2]
 
-  Web-based vertical scroll version:
-</div>
+Web-based vertical scroll version:
 
 
 [1]:{{ site.url }}/downloads/comic1-english/RC01-full.png
