@@ -4,6 +4,17 @@ title: Rheology of Cats
 image_paths:
   - {% include img.html src="assets/img/comic01-english/RC01-full.png)" alt="front cover" %}
 ---
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Rheology of Cats (English)</h2>
 </div>
