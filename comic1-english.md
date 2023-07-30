@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Rheology of Cats 
+title: Rheology of Cats
 image_paths:
   - path: /assets/img/comic01-english/RC01-full.png
-    alt: "front cover"
+    alt: "Front Cover"
 ---
 
 <div class="col-lg-12 text-center">
