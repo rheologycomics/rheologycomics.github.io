@@ -6,4 +6,5 @@ layout: default
 {% include about.html %}
 {% include portfolio_grid.html %}
 {% include team.html %}
+{% include services.html %}
 {% include contact.html %}
