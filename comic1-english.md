@@ -24,6 +24,7 @@ Web-based vertical scroll:
   <img src="assets/img/comic01/comic01-english/RC01-full.png"
        alt="Front Cover"
        class="centered-image" />
+  <br> <!-- Add a <br> tag for spacing -->
   <img src="assets/img/comic01/comic01-english/RC01-full.png"
        alt="Front Cover"
        class="centered-image" />
