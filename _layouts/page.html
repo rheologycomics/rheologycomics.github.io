@@ -9,11 +9,4 @@ document.getElementById("page-top").className="bg-light";
 </script>
 {% endif %}
 
-<div class="container" id="pagecontainer">
-  {{ content }}
-  <div class="image-column" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    {% for image in page.image_paths %}
-      <img src="{{ image.path }}" alt="{{ image.alt }}" style="width: 100%; max-width: 300px; height: auto;">
-    {% endfor %}
-  </div>
-</div>
+
