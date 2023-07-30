@@ -19,6 +19,7 @@ image_paths:
 
 Web-based vertical scroll:
 
+<center>
   <div class="image-column">
     <img src="assets/img/comic01/comic01-english/RC01-full.png"
        alt="Front Cover"
@@ -32,5 +33,5 @@ Web-based vertical scroll:
        alt="Front Cover"
        class="centered-image" />
   </div>
+</center>
 
-</div>
