@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Η Ρεολογία της Γάτας (Ελληνικά)
+title: Rheology of Cats
 image_paths:
   - path: assets/img/comic01/comic01-english/RC01-full.png
     alt: "Front Cover"
 ---
 
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Rheology of Cats (English)</h2>
+	<h2 class="section-heading text-uppercase">Η Ρεολογία της Γάτας (Ελληνικά)
+</h2>
         <div class="text-muted">
            Download for a Comics Reader (<a href="{{ site.url }}/downloads/comic1-english/RC01-full.png">CVG</a>)
         </div>
