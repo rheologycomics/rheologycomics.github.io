@@ -2,7 +2,7 @@
 layout: page
 title: Rheology of Cats
 image_paths:
-  - path: assets/img/comic01-english/RC01-full.png
+  - path: assets/img/comic01/comic01-english/RC01-full.png
     alt: "Front Cover"
 ---
 
@@ -21,9 +21,6 @@ image_paths:
     <img src="{{ image.path }}" alt="{{ image.alt }}" style="max-width: 100%; height: auto; margin: 10px;">
   {% endfor %}
 </div>
-
-
-
 
 
 
