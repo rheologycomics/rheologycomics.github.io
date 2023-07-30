@@ -8,27 +8,30 @@ image_paths:
 	<h2 class="section-heading text-uppercase">Rheology of Cats (English)</h2>
 </div>
 
+<center>
+  [Download for a Comics Reader (CBZ File)][1]
 
-[Download for a Comics Reader (CBZ File)][1]
+  [Download PDF][2]
 
-[Download PDF][2]
-
-Web-based vertical scroll:
+  Web-based vertical scroll:
 
 
 [1]:{{ site.url }}/downloads/comic1-english/RC01-full.png
 [2]:{{ site.url }}/downloads/comic1-english/RC01-full.png
 
 
-<div class="image-column">
-  <img src="assets/img/comic01/comic01-english/RC01-full.png"
+  <div class="image-column">
+    <img src="assets/img/comic01/comic01-english/RC01-full.png"
        alt="Front Cover"
        class="centered-image" />
+  </div>
+
   <br> <!-- Add a <br> tag for spacing -->
-  <img src="assets/img/comic01/comic01-english/RC01-full.png"
+
+  <div class="image-column">
+    <img src="assets/img/comic01/comic01-english/RC01-full.png"
        alt="Front Cover"
        class="centered-image" />
-</div>
+  </div>
 
-
-
+</center>
