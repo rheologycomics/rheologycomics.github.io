@@ -17,15 +17,15 @@ en: &DEFAULT_EN
     #buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Get Involved"
+    text: ""
     section: services
     list:
       - title: "Feedback"
-        desc: "Give us feedback on Rheology Comics #1: Rheology of Cats!"
+        desc: "[Give us feedback on Rheology Comics #1 Rheology of Cats!](https://forms.gle/DJ9qK3gAw9SsXK2PA)"
         icon: fas fa-regular fa-comment #find more at https://fontawesome.com/icons
       - title: "Translate"
-        desc: "Apply to help us bring Rheology Comics to more languages!"
+        desc: "[Help us bring Rheology Comics to more languages!](https://forms.gle/V4Zp4oitCafpmL7s9)"
         icon: fas fa-solid fa-language
       #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
       #  desc: "Your description here, full **Markdown** support"
