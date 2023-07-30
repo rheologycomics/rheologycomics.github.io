@@ -13,7 +13,7 @@ image_paths:
 
 [Download PDF][2]
 
-Web-based vertical scroll version:
+Web-based vertical scroll:
 
 
 [1]:{{ site.url }}/downloads/comic1-english/RC01-full.png
@@ -21,6 +21,9 @@ Web-based vertical scroll version:
 
 
 <div class="image-column">
+  <img src="assets/img/comic01/comic01-english/RC01-full.png"
+       alt="Front Cover"
+       class="centered-image" />
   <img src="assets/img/comic01/comic01-english/RC01-full.png"
        alt="Front Cover"
        class="centered-image" />
