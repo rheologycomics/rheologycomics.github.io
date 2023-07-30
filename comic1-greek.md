@@ -15,7 +15,7 @@ image_paths:
            Download PDF (<a href="{{ site.url }}/downloads/comic1-english/RC01-full.png">PDF</a>)
         </div>
         <div class="text-muted">
-           <a href="https://forms.gle/YxFdry5rYfWbbZVBA">Give Feedback</a>)
+           <a href="https://forms.gle/YxFdry5rYfWbbZVBA">Give Feedback</a>
         </div>
 
 </div>
