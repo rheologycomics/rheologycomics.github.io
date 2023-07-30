@@ -14,4 +14,8 @@ Download PDF *Coming Soon* <a id="raw-url" href="https://github.com/rheologycomi
 
 Web-based vertical scroll version *Coming Soon*
 
+<img src="../img/comic01/comic01-english/RC01-full.png"
+     alt="Front Cover"
+     style="float: center" />
+
 ![name of the image] /assets/img/comic01/comic01-english/rc01_FC.png]
