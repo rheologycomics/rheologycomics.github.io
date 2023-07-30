@@ -7,6 +7,7 @@ image_paths:
 
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Rheology of Cats (English)</h2>
+        <h3 class="section-subheading text-muted">Download for a Comics Reader</h3>
   </div>
 
 
