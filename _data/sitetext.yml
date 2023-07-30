@@ -21,11 +21,13 @@ en: &DEFAULT_EN
     text: ""
     section: services
     list:
-      - title: "Feedback"
-        desc: "[Give us feedback on Rheology Comics #1 Rheology of Cats!](https://forms.gle/DJ9qK3gAw9SsXK2PA)"
+      - title: "[Feedback](https://forms.gle/DJ9qK3gAw9SsXK2PA)"
+        desc: "Give us feedback on Rheology Comics #1 Rheology of Cats!"
         icon: fas fa-regular fa-comment #find more at https://fontawesome.com/icons
-      - title: "Translate"
-        desc: "[Help us bring Rheology Comics to more languages!](https://forms.gle/V4Zp4oitCafpmL7s9)"
+        link: "https://forms.gle/DJ9qK3gAw9SsXK2PA"
+      - title: "[Translate](https://forms.gle/V4Zp4oitCafpmL7s9)"
+        desc: "Help us bring Rheology Comics to more languages!"
+        linke: "https://forms.gle/V4Zp4oitCafpmL7s9"
         icon: fas fa-solid fa-language
       #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
       #  desc: "Your description here, full **Markdown** support"
