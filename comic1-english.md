@@ -15,11 +15,12 @@ image_paths:
   </style>
 </head>
 
-<div class="col-lg-12 text-center">
+<div class="content">
+  <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Rheology of Cats (English)</h2>
-</div>
+  </div>
 
-<center>
+
   [Download for a Comics Reader (CBZ File)][1]
 
   [Download PDF][2]
@@ -27,8 +28,8 @@ image_paths:
   Web-based vertical scroll:
 
 
-[1]:{{ site.url }}/downloads/comic1-english/RC01-full.png
-[2]:{{ site.url }}/downloads/comic1-english/RC01-full.png
+  [1]:{{ site.url }}/downloads/comic1-english/RC01-full.png
+  [2]:{{ site.url }}/downloads/comic1-english/RC01-full.png
 
 
   <div class="image-column">
@@ -45,4 +46,4 @@ image_paths:
        class="centered-image" />
   </div>
 
-</center>
+</div>
