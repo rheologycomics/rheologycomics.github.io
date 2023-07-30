@@ -3,15 +3,16 @@ layout: page
 title: Rheology of Cats 
 image_paths:
   - path: /assets/img/comic01-english/RC01-full.png
-  - alt: "front cover"
+    alt: "front cover"
 ---
 
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Rheology of Cats (English)</h2>
         <div class="text-muted">
            Download for a Comics Reader (<a href="{{ site.url }}/downloads/comic1-english/RC01-full.png">CVG</a>) 
- &#x2022; Download PDF (<a href="{{ site.url }}/downloads/comic1-english/RC01-full.png">PDF</a>)       </div>
-  </div>
+ &#x2022; Download PDF (<a href="{{ site.url }}/downloads/comic1-english/RC01-full.png">PDF</a>) 
+        </div>
+</div>
 
 
 
