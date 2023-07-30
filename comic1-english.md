@@ -20,19 +20,20 @@ image_paths:
 
 Web-based vertical scroll:
 
-<center>
-  <div class="image-column">
-    <img src="assets/img/comic01/comic01-english/RC01-full.png"
-       alt="Front Cover"
-       class="centered-image" />
-  </div>
 
-  <br> <!-- Add a <br> tag for spacing -->
 
-  <div class="image-column">
-    <img src="assets/img/comic01/comic01-english/RC01-full.png"
-       alt="Front Cover"
-       class="centered-image" />
-  </div>
-</center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
