@@ -10,7 +10,7 @@ image_paths:
 
 Download for a Comics Reader (CBZ File) *Coming Soon*
 
-Download PDF *Coming Soon* <a id="raw-url" href="https://github.com/rheologycomics/rheologycomics.github.io/blob/landing-only/assets/img/comic01/comic01-english/RC01-full.png">test download</a>
+Download PDF *Coming Soon* <a id="raw-url" href="https://github.com/rheologycomics/rheologycomics.github.io/blob/landing-only/assets/img/comic01/comic01-english/RC01-full.png" title="Download" download>test download</a>
 
 Web-based vertical scroll version *Coming Soon*
 
