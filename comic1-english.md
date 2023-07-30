@@ -10,9 +10,7 @@ image_paths:
   </div>
 
 
-[Download for a Comics Reader (CBZ File)][1]
-
-[Download PDF][2]
+[Download for a Comics Reader (CBZ File)][1] &#x2022; [Download PDF][2]
 
 [1]:{{ site.url }}/downloads/comic1-english/RC01-full.png
 [2]:{{ site.url }}/downloads/comic1-english/RC01-full.png
