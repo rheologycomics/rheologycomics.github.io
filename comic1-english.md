@@ -20,14 +20,6 @@ image_paths:
 Web-based vertical scroll:
 
   <div class="image-column">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-      img {
-        max-width: 100%;
-        height: auto;
-      }
-  </style>
     <img src="assets/img/comic01/comic01-english/RC01-full.png"
        alt="Front Cover"
        class="centered-image" />
