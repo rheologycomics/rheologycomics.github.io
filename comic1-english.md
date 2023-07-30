@@ -9,7 +9,7 @@ image_paths:
 </div>
 
 
-<div class="text-center">
+<div style="text-align: center; display: inline-block;">
   [Download for a Comics Reader (CBZ File)][1]
 
   [Download PDF][2]
@@ -20,8 +20,6 @@ image_paths:
 
 [1]:{{ site.url }}/downloads/comic1-english/RC01-full.png
 [2]:{{ site.url }}/downloads/comic1-english/RC01-full.png
-
-Web-based vertical scroll version:
 
 
 <div class="image-column">
