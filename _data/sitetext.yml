@@ -132,7 +132,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: Follow us on Instagram or email us at rheologycomics@gmail.com<br><br>[Give Feedback](https://forms.gle/vBRtzJiATuTaPjWx5)<br><br>[Help us bring Rheology Comics to more languages!](https://forms.gle/NHHk8DNKBCfGj6Pi7)
+    text: "Follow us on Instagram or email us at rheologycomics@gmail.com<br><br>[Give Feedback](https://forms.gle/vBRtzJiATuTaPjWx5)<br><br>[Help us bring Rheology Comics to more languages!](https://forms.gle/NHHk8DNKBCfGj6Pi7)"
     social:
       #- url: https://twitter.com
       #  icon: "fab fa-twitter"
