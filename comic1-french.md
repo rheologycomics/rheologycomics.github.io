@@ -2,8 +2,38 @@
 layout: page
 title: Rheology of Cats
 image_paths:
-  - path: assets/img/comic01/comic01-english/RC01-full.png
+  - path: assets/img/comic1/RC1-french/RC1-French01.png 
     alt: "Front Cover"
+  - path: assets/img/comic1/RC1-french/RC1-French02.png 
+    alt: "Insider Front Cover"
+  - path: assets/img/comic1/RC1-french/RC1-French03.png 
+    alt: "page 1"
+  - path: assets/img/comic1/RC1-french/RC1-French04.png 
+    alt: "page 2"
+  - path: assets/img/comic1/RC1-french/RC1-French05.png 
+    alt: "page 3"
+  - path: assets/img/comic1/RC1-french/RC1-French06.png 
+    alt: "page 4"
+  - path: assets/img/comic1/RC1-french/RC1-French07.png 
+    alt: "page 5"
+  - path: assets/img/comic1/RC1-french/RC1-French08.png 
+    alt: "page 6"
+  - path: assets/img/comic1/RC1-french/RC1-French09.png 
+    alt: "page 7"
+  - path: assets/img/comic1/RC1-french/RC1-French10.png 
+    alt: "page 8"
+  - path: assets/img/comic1/RC1-french/RC1-French11.png 
+    alt: "page 9"
+  - path: assets/img/comic1/RC1-french/RC1-French12.png 
+    alt: "page 10"
+  - path: assets/img/comic1/RC1-french/RC1-French13.png 
+    alt: "page 11"
+  - path: assets/img/comic1/RC1-french/RC1-French14.png 
+    alt: "page 12"
+  - path: assets/img/comic1/RC1-french/RC1-French15.png 
+    alt: "Inside Back Cover"
+  - path: assets/img/comic1/RC1-french/RC1-French16.png 
+    alt: "Back Cover"
 ---
 
 <div class="col-lg-12 text-center">
