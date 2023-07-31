@@ -52,7 +52,7 @@ image_paths:
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 10px; margin-bottom: 30px;">
   {% for image in page.image_paths %}
-    <img src="{{ image.path }}" alt="{{ image.alt }}" style="width: 50%; max-width: 600px; height: auto; margin: 10px;">
+    <img src="{{ image.path }}" alt="{{ image.alt }}" style="max-width: 80%; height: auto; margin: 10px;">
   {% endfor %}
 </div>
 
