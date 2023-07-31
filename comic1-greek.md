@@ -40,10 +40,10 @@ image_paths:
 	<h2 class="section-heading text-uppercase">Η ΡΕΟΛΟΓΙΑ ΤΗΣ ΓΑΤΑΣ (ΕΛΛΗΝΙΚΑ)
 </h2>
         <div class="text-muted">
-           Download for a Comics Reader (<a href="{{ site.url }}/downloads/comic1-greek/RC1-Greek.cbz">CBZ</a>)
+           <a href="{{ site.url }}/downloads/comic1-greek/RC1-Greek.cbz">Download for a Comics Reader (CBZ)</a>
         </div>
         <div class="text-muted">
-           Download PDF (<a href="{{ site.url }}/downloads/comic1-greek/RC1-Greek.pdf">PDF</a>)
+           <a href="{{ site.url }}/downloads/comic1-greek/RC1-Greek.pdf">Download PDF</a>
         </div>
         <div class="text-muted">
            <a href="https://forms.gle/YxFdry5rYfWbbZVBA">Give Feedback</a>
