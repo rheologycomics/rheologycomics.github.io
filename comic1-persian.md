@@ -37,12 +37,12 @@ image_paths:
 ---
 
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Rheology of Cats (English)</h2>
+	<h2 class="section-heading text-uppercase">رئولوژی گربه‌ها (فارسی)</h2>
         <div class="text-muted">
-           <a href="{{ site.url }}/downloads/comic1-japanese/RC1-Japanese.cbz">Download for a Comics Reader (CBZ)</a>
+           <a href="{{ site.url }}/downloads/comic1-persian/RC1-Persian.cbz">Download for a Comics Reader (CBZ)</a>
         </div>
         <div class="text-muted">
-           <a href="{{ site.url }}/downloads/comic1-japanese/RC1-Japanese.pdf">Download PDF</a>
+           <a href="{{ site.url }}/downloads/comic1-persian/RC1-Persian.pdf">Download PDF</a>
         </div>
         <div class="text-muted">
            <a href="https://forms.gle/YxFdry5rYfWbbZVBA">Give Feedback</a>
