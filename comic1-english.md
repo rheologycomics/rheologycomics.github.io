@@ -32,7 +32,7 @@ image_paths:
     alt: "page 12"
   - path: assets/img/comic1/RC1-english/RC1-English15.webp
     alt: "Inside Back Cover"
-  - path: assets/img/comic1/RC1-english/RC1-Engish16.webp
+  - path: assets/img/comic1/RC1-english/RC1-English16.webp
     alt: "Back Cover"
 ---
 
