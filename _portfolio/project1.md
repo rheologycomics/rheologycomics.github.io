@@ -13,10 +13,10 @@ Inspired by M.A. Fardin’s Ig Nobel Prize winning article “On the rheology of
 Coming August 2023.
 
 {:.list-inline}
-- English: August 2023 [WEB](/comic1-english) &#2022; [CBZ]({{ site.url }}/downloads/comic1-english/RC1-English.cbz) [PDF]({{ site.url }}/downloads/comic1-english/RC1-English.pdf)
-- Greek: August 2023
-- French: August 2023
+- English: [WEB](/comic1-english) &#x2022; [CBZ]({{ site.url }}/downloads/comic1-english/RC1-English.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic1-english/RC1-English.pdf)
+- Greek: [WEB](/comic1-greek) &#x2022; [CBZ]({{ site.url }}/downloads/comic1-greek/RC1-Greek.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic1-greek/RC1-Greek.pdf)
+- French: [WEB](/comic1-french) &#x2022; [CBZ]({{ site.url }}/downloads/comic1-french/RC1-French.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic1-french/RC1-French.pdf)
+- Japanese: [WEB](/comic1-japanese) &#x2022; [CBZ]({{ site.url }}/downloads/comic1-english/RC1-Japanese.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic1-english/RC1-Japanese.pdf)
 - Persian: August 2023
-- Japanese: August 2023
 - And more coming soon!
 
