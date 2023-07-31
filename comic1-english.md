@@ -47,9 +47,6 @@ image_paths:
         <div class="text-muted">
            <a href="https://forms.gle/YxFdry5rYfWbbZVBA">Give Feedback</a>
         </div>
-        <div class="text-muted">
-          Images will load also below to view the entire comic online
-        </div>
         
 </div>
 
