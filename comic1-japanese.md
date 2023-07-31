@@ -2,37 +2,37 @@
 layout: page
 title: Rheology of Cats
 image_paths:
-  - path: assets/img/comic1/RC1-japanese/RC1-Japanese01.png 
+  - path: assets/img/comic1/RC1-japanese/RC1-Japanese01.webp 
     alt: "Front Cover"
-  - path: assets/img/comic1/RC1-japanese/RC1-Japanese02.png 
+  - path: assets/img/comic1/RC1-japanese/RC1-Japanese02.webp
     alt: "Insider Front Cover"
-  - path: assets/img/comic1/RC1-japanese/RC1-Japanese03.png 
+  - path: assets/img/comic1/RC1-japanese/RC1-Japanese03.webp
     alt: "page 1"
-  - path: assets/img/comic1/RC1-japanese/RC1-Japanese04.png 
+  - path: assets/img/comic1/RC1-japanese/RC1-Japanese04.webp
     alt: "page 2"
-  - path: assets/img/comic1/RC1-japanese/RC1-Japanese05.png 
+  - path: assets/img/comic1/RC1-japanese/RC1-Japanese05.webp
     alt: "page 3"
-  - path: assets/img/comic1/RC1-japanese/RC1-Japanese06.png 
+  - path: assets/img/comic1/RC1-japanese/RC1-Japanese06.webp
     alt: "page 4"
-  - path: assets/img/comic1/RC1-japanese/RC1-Japanese07.png 
+  - path: assets/img/comic1/RC1-japanese/RC1-Japanese07.webp
     alt: "page 5"
-  - path: assets/img/comic1/RC1-japanese/RC1-Japanese08.png 
+  - path: assets/img/comic1/RC1-japanese/RC1-Japanese08.webp 
     alt: "page 6"
-  - path: assets/img/comic1/RC1-japanese/RC1-Japanese09.png 
+  - path: assets/img/comic1/RC1-japanese/RC1-Japanese09.webp
     alt: "page 7"
-  - path: assets/img/comic1/RC1-japanese/RC1-Japanese10.png 
+  - path: assets/img/comic1/RC1-japanese/RC1-Japanese10.webp
     alt: "page 8"
-  - path: assets/img/comic1/RC1-japanese/RC1-Japanese11.png 
+  - path: assets/img/comic1/RC1-japanese/RC1-Japanese11.webp
     alt: "page 9"
-  - path: assets/img/comic1/RC1-japanese/RC1-Japanese12.png 
+  - path: assets/img/comic1/RC1-japanese/RC1-Japanese12.webp 
     alt: "page 10"
-  - path: assets/img/comic1/RC1-japanese/RC1-Japanese13.png 
+  - path: assets/img/comic1/RC1-japanese/RC1-Japanese13.webp
     alt: "page 11"
-  - path: assets/img/comic1/RC1-japanese/RC1-Japanese14.png 
+  - path: assets/img/comic1/RC1-japanese/RC1-Japanese14.webp
     alt: "page 12"
-  - path: assets/img/comic1/RC1-japanese/RC1-Japanese15.png 
+  - path: assets/img/comic1/RC1-japanese/RC1-Japanese15.webp
     alt: "Inside Back Cover"
-  - path: assets/img/comic1/RC1-japanese/RC1-Japanese16.png 
+  - path: assets/img/comic1/RC1-japanese/RC1-Japanese16.webp
     alt: "Back Cover"
 ---
 

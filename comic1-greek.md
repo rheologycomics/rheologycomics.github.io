@@ -2,37 +2,37 @@
 layout: page
 title: Rheology of Cats
 image_paths:
-  - path: assets/img/comic1/RC1-greek/RC1-Greek01.png 
+  - path: assets/img/comic1/RC1-greek/RC1-Greek01.webp 
     alt: "Front Cover"
-  - path: assets/img/comic1/RC1-greek/RC1-Greek02.png 
+  - path: assets/img/comic1/RC1-greek/RC1-Greek02.webp
     alt: "Insider Front Cover"
-  - path: assets/img/comic1/RC1-greek/RC1-Greek03.png 
+  - path: assets/img/comic1/RC1-greek/RC1-Greek03.webp
     alt: "page 1"
-  - path: assets/img/comic1/RC1-greek/RC1-Greek04.png 
+  - path: assets/img/comic1/RC1-greek/RC1-Greek04.webp
     alt: "page 2"
-  - path: assets/img/comic1/RC1-greek/RC1-Greek05.png 
+  - path: assets/img/comic1/RC1-greek/RC1-Greek05.webp
     alt: "page 3"
-  - path: assets/img/comic1/RC1-greek/RC1-Greek06.png 
+  - path: assets/img/comic1/RC1-greek/RC1-Greek06.webp
     alt: "page 4"
-  - path: assets/img/comic1/RC1-greek/RC1-Greek07.png 
+  - path: assets/img/comic1/RC1-greek/RC1-Greek07.webp
     alt: "page 5"
-  - path: assets/img/comic1/RC1-greek/RC1-Greek08.png 
+  - path: assets/img/comic1/RC1-greek/RC1-Greek08.webp
     alt: "page 6"
-  - path: assets/img/comic1/RC1-greek/RC1-Greek09.png 
+  - path: assets/img/comic1/RC1-greek/RC1-Greek09.webp
     alt: "page 7"
-  - path: assets/img/comic1/RC1-greek/RC1-Greek10.png 
+  - path: assets/img/comic1/RC1-greek/RC1-Greek10.webp
     alt: "page 8"
-  - path: assets/img/comic1/RC1-greek/RC1-Greek11.png 
+  - path: assets/img/comic1/RC1-greek/RC1-Greek11.webp
     alt: "page 9"
-  - path: assets/img/comic1/RC1-greek/RC1-Greek12.png 
+  - path: assets/img/comic1/RC1-greek/RC1-Greek12.webp
     alt: "page 10"
-  - path: assets/img/comic1/RC1-greek/RC1-Greek13.png 
+  - path: assets/img/comic1/RC1-greek/RC1-Greek13.webp 
     alt: "page 11"
-  - path: assets/img/comic1/RC1-greek/RC1-Greek14.png 
+  - path: assets/img/comic1/RC1-greek/RC1-Greek14.webp
     alt: "page 12"
-  - path: assets/img/comic1/RC1-greek/RC1-Greek15.png 
+  - path: assets/img/comic1/RC1-greek/RC1-Greek15.webp
     alt: "Inside Back Cover"
-  - path: assets/img/comic1/RC1-greek/RC1-Greek16.png 
+  - path: assets/img/comic1/RC1-greek/RC1-Greek16.webp 
     alt: "Back Cover"
 ---
 
