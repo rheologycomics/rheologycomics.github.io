@@ -45,9 +45,6 @@ image_paths:
         <div class="text-muted">
            <a href="{{ site.url }}/downloads/comic1-greek/RC1-Greek.pdf">Download PDF</a>
         </div>
-        <div class="text-muted">
-           <a href="https://forms.gle/YxFdry5rYfWbbZVBA">Give Feedback</a>
-        </div>
 
 </div>
 
