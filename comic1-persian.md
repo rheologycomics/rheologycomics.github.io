@@ -2,37 +2,37 @@
 layout: page
 title: Rheology of Cats
 image_paths:
-  - path: assets/img/comic1/RC1-persian/RC1-Persian01.webp 
+  - path: assets/img/comic1/RC1-persian/RC1-Persian_01.webp 
     alt: "Front Cover"
-  - path: assets/img/comic1/RC1-persian/RC1-Persian02.webp
+  - path: assets/img/comic1/RC1-persian/RC1-Persian_02.webp
     alt: "Insider Front Cover"
-  - path: assets/img/comic1/RC1-persian/RC1-Persian03.webp
+  - path: assets/img/comic1/RC1-persian/RC1-Persian_03.webp
     alt: "page 1"
-  - path: assets/img/comic1/RC1-persian/RC1-Persian04.webp
+  - path: assets/img/comic1/RC1-persian/RC1-Persian_04.webp
     alt: "page 2"
-  - path: assets/img/comic1/RC1-persian/RC1-Persian05.webp
+  - path: assets/img/comic1/RC1-persian/RC1-Persian_05.webp
     alt: "page 3"
-  - path: assets/img/comic1/RC1-persian/RC1-Persian06.webp
+  - path: assets/img/comic1/RC1-persian/RC1-Persian_06.webp
     alt: "page 4"
-  - path: assets/img/comic1/RC1-persian/RC1-Persian07.webp
+  - path: assets/img/comic1/RC1-persian/RC1-Persian_07.webp
     alt: "page 5"
-  - path: assets/img/comic1/RC1-persian/RC1-Persian08.webp 
+  - path: assets/img/comic1/RC1-persian/RC1-Persian_08.webp 
     alt: "page 6"
-  - path: assets/img/comic1/RC1-persian/RC1-Persian09.webp
+  - path: assets/img/comic1/RC1-persian/RC1-Persian_09.webp
     alt: "page 7"
-  - path: assets/img/comic1/RC1-persian/RC1-Persian10.webp
+  - path: assets/img/comic1/RC1-persian/RC1-Persian_10.webp
     alt: "page 8"
-  - path: assets/img/comic1/RC1-persian/RC1-Persian11.webp
+  - path: assets/img/comic1/RC1-persian/RC1-Persian_11.webp
     alt: "page 9"
-  - path: assets/img/comic1/RC1-persian/RC1-Persian12.webp 
+  - path: assets/img/comic1/RC1-persian/RC1-Persian_12.webp 
     alt: "page 10"
-  - path: assets/img/comic1/RC1-persian/RC1-Persian13.webp
+  - path: assets/img/comic1/RC1-persian/RC1-Persian_13.webp
     alt: "page 11"
-  - path: assets/img/comic1/RC1-persian/RC1-Persian14.webp
+  - path: assets/img/comic1/RC1-persian/RC1-Persian_14.webp
     alt: "page 12"
-  - path: assets/img/comic1/RC1-persian/RC1-Persian15.webp
+  - path: assets/img/comic1/RC1-persian/RC1-Persian_15.webp
     alt: "Inside Back Cover"
-  - path: assets/img/comic1/RC1-persian/RC1-Persian16.webp
+  - path: assets/img/comic1/RC1-persian/RC1-Persian_16.webp
     alt: "Back Cover"
 ---
 

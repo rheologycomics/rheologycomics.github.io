@@ -2,37 +2,37 @@
 layout: page
 title: Rheology of Cats
 image_paths:
-  - path: assets/img/comic1/RC1-english/RC1-English01.webp 
+  - path: assets/img/comic1/RC1-english/RC1-English_01.webp 
     alt: "Front Cover"
-  - path: assets/img/comic1/RC1-english/RC1-English02.webp
+  - path: assets/img/comic1/RC1-english/RC1-English_02.webp
     alt: "Insider Front Cover"
-  - path: assets/img/comic1/RC1-english/RC1-English03.webp
+  - path: assets/img/comic1/RC1-english/RC1-English_03.webp
     alt: "page 1"
-  - path: assets/img/comic1/RC1-english/RC1-English04.webp
+  - path: assets/img/comic1/RC1-english/RC1-English_04.webp
     alt: "page 2"
-  - path: assets/img/comic1/RC1-english/RC1-English05.webp
+  - path: assets/img/comic1/RC1-english/RC1-English_05.webp
     alt: "page 3"
-  - path: assets/img/comic1/RC1-english/RC1-English06.webp
+  - path: assets/img/comic1/RC1-english/RC1-English_06.webp
     alt: "page 4"
-  - path: assets/img/comic1/RC1-english/RC1-English07.webp
+  - path: assets/img/comic1/RC1-english/RC1-English_07.webp
     alt: "page 5"
-  - path: assets/img/comic1/RC1-english/RC1-English08.webp
+  - path: assets/img/comic1/RC1-english/RC1-English_08.webp
     alt: "page 6"
-  - path: assets/img/comic1/RC1-english/RC1-English09.webp
+  - path: assets/img/comic1/RC1-english/RC1-English_09.webp
     alt: "page 7"
-  - path: assets/img/comic1/RC1-english/RC1-English10.webp
+  - path: assets/img/comic1/RC1-english/RC1-English_10.webp
     alt: "page 8"
-  - path: assets/img/comic1/RC1-english/RC1-English11.webp
+  - path: assets/img/comic1/RC1-english/RC1-English_11.webp
     alt: "page 9"
-  - path: assets/img/comic1/RC1-english/RC1-English12.webp
+  - path: assets/img/comic1/RC1-english/RC1-English_12.webp
     alt: "page 10"
-  - path: assets/img/comic1/RC1-english/RC1-English13.webp
+  - path: assets/img/comic1/RC1-english/RC1-English_13.webp
     alt: "page 11"
-  - path: assets/img/comic1/RC1-english/RC1-English14.webp
+  - path: assets/img/comic1/RC1-english/RC1-English_14.webp
     alt: "page 12"
-  - path: assets/img/comic1/RC1-english/RC1-English15.webp
+  - path: assets/img/comic1/RC1-english/RC1-English_15.webp
     alt: "Inside Back Cover"
-  - path: assets/img/comic1/RC1-english/RC1-English16.webp
+  - path: assets/img/comic1/RC1-english/RC1-English_16.webp
     alt: "Back Cover"
 ---
 

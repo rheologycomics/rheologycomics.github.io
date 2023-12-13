@@ -2,37 +2,37 @@
 layout: page
 title: Rheology of Cats
 image_paths:
-  - path: assets/img/comic1/RC1-french/RC1-French01.webp 
+  - path: assets/img/comic1/RC1-french/RC1-French_01.webp 
     alt: "Front Cover"
-  - path: assets/img/comic1/RC1-french/RC1-French02.webp
+  - path: assets/img/comic1/RC1-french/RC1-French_02.webp
     alt: "Insider Front Cover"
-  - path: assets/img/comic1/RC1-french/RC1-French03.webp
+  - path: assets/img/comic1/RC1-french/RC1-French_03.webp
     alt: "page 1"
-  - path: assets/img/comic1/RC1-french/RC1-French04.webp
+  - path: assets/img/comic1/RC1-french/RC1-French_04.webp
     alt: "page 2"
-  - path: assets/img/comic1/RC1-french/RC1-French05.webp 
+  - path: assets/img/comic1/RC1-french/RC1-French_05.webp 
     alt: "page 3"
-  - path: assets/img/comic1/RC1-french/RC1-French06.webp
+  - path: assets/img/comic1/RC1-french/RC1-French_06.webp
     alt: "page 4"
-  - path: assets/img/comic1/RC1-french/RC1-French07.webp
+  - path: assets/img/comic1/RC1-french/RC1-French_07.webp
     alt: "page 5"
-  - path: assets/img/comic1/RC1-french/RC1-French08.webp
+  - path: assets/img/comic1/RC1-french/RC1-French_08.webp
     alt: "page 6"
-  - path: assets/img/comic1/RC1-french/RC1-French09.webp
+  - path: assets/img/comic1/RC1-french/RC1-French_09.webp
     alt: "page 7"
-  - path: assets/img/comic1/RC1-french/RC1-French10.webp
+  - path: assets/img/comic1/RC1-french/RC1-French_10.webp
     alt: "page 8"
-  - path: assets/img/comic1/RC1-french/RC1-French11.webp
+  - path: assets/img/comic1/RC1-french/RC1-French_11.webp
     alt: "page 9"
-  - path: assets/img/comic1/RC1-french/RC1-French12.webp
+  - path: assets/img/comic1/RC1-french/RC1-French_12.webp
     alt: "page 10"
-  - path: assets/img/comic1/RC1-french/RC1-French13.webp
+  - path: assets/img/comic1/RC1-french/RC1-French_13.webp
     alt: "page 11"
-  - path: assets/img/comic1/RC1-french/RC1-French14.webp
+  - path: assets/img/comic1/RC1-french/RC1-French_14.webp
     alt: "page 12"
-  - path: assets/img/comic1/RC1-french/RC1-French15.webp
+  - path: assets/img/comic1/RC1-french/RC1-French_15.webp
     alt: "Inside Back Cover"
-  - path: assets/img/comic1/RC1-french/RC1-French16.webp
+  - path: assets/img/comic1/RC1-french/RC1-French_16.webp
     alt: "Back Cover"
 ---
 
