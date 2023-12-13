@@ -16,7 +16,7 @@ Coming August 2023.
 - English: [WEB](/comic1-english) &#x2022; [CBZ]({{ site.url }}/downloads/comic1-english/RC1-English.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic1-english/RC1-English.pdf)
 - Ελληνικά: [WEB](/comic1-greek) &#x2022; [CBZ]({{ site.url }}/downloads/comic1-greek/RC1-Greek.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic1-greek/RC1-Greek.pdf)
 - Français: [WEB](/comic1-french) &#x2022; [CBZ]({{ site.url }}/downloads/comic1-french/RC1-French.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic1-french/RC1-French.pdf)
-- Italiano: [WEB](/comic1-italian) &#x2022; [CBZ]({{ site.url }}/downloads/comic1-french/RC1-Italian.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic1-french/RC1-Italian.pdf)
+- Italiano: [WEB](/comic1-italian) &#x2022; [CBZ]({{ site.url }}/downloads/comic1-italian/RC1-Italian.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic1-italian/RC1-Italian.pdf)
 - 日本語: [WEB](/comic1-japanese) &#x2022; [CBZ]({{ site.url }}/downloads/comic1-japanese/RC1-Japanese.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic1-japanese/RC1-Japanese.pdf)
 - فارسی: [WEB](/comic1-persian) &#x2022; [CBZ]({{ site.url }}/downloads/comic1-persian/RC1-Persian.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic1-persian/RC1-Persian.pdf)
 
