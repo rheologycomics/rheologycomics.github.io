@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Print Files" #"[Feedback](https://forms.gle/DJ9qK3gAw9SsXK2PA)"
         desc: "Comming soon! Print your own booklets" #"Give us feedback on Rheology Comics #1 Rheology of Cats!"
-        icon: fas fa-regular fa-book-open #fas fa-regular fa-comment #find more at https://fontawesome.com/icons
+        icon: fas fa-regular fa-comment #fa-book-open #fas fa-regular fa-comment #find more at https://fontawesome.com/icons
         link: #"https://forms.gle/DJ9qK3gAw9SsXK2PA"
       - title: "[Translate](https://forms.gle/V4Zp4oitCafpmL7s9)"
         desc: "Help us bring Rheology Comics to more languages!"
