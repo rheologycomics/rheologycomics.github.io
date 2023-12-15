@@ -23,8 +23,8 @@ en: &DEFAULT_EN
     list:
       - title: "Print as Booklets" 
         desc: "Comming soon! Print your own copies"
-        icon: fas fa-regular fa-comment #find more at https://fontawesome.com/icons
-        link: "https://forms.gle/DJ9qK3gAw9SsXK2PA"
+        icon: fas fa-regular fa-book-open #find more at https://fontawesome.com/icons
+        link: "" 
       - title: "[Translate](https://forms.gle/V4Zp4oitCafpmL7s9)"
         desc: "Help us bring Rheology Comics to more languages!"
         link: "https://forms.gle/V4Zp4oitCafpmL7s9"
