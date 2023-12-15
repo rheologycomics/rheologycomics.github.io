@@ -73,7 +73,7 @@ en: &DEFAULT_EN
   about:
     title: "About"
     #text: "Funded by the Society of Rheology's Rheology Venture Fund (2023)."
-    body: Rheology is fun! It connects our intuitive experience of texture and touch to all kinds of cutting edge science and applications. But when we talk about rheology research, things get technical fast. <br><br> The Rheology Comics project is a series of four short comics designed to help readers connect these technical details to the joys of rheology. Each comic is aimed at ages 10+ and will be available in print and online in English, French, Greek, Japanese, and Persian  (with more languages coming soon!). <br><br> Our first issue, “Rheology of Cats,” covers the basics of stress and strain to help us ask if cats are solid or liquid. It was launched in August 2023 in print in English and Greek at [ICR 2023](https://www.icr2023.com/)! <br><br><br> Rheology Comics is funded by the [Society of Rheology](https://www.rheology.org/sor/)'s Rheology Venture Fund (2023).
+    body: Rheology is fun! It connects our intuitive experience of texture and touch to all kinds of cutting edge science and applications. But when we talk about rheology research, things get technical fast. <br><br> The Rheology Comics project is a series of four short comics designed to help readers connect these technical details to the joys of rheology. Each comic is aimed at ages 10+ and will be available in print and online in English, Greek, French, Italian, German, Japanese, Persian, and Arabic. <br><br> Our first issue, “Rheology of Cats,” covers the basics of stress and strain to help us ask if cats are solid or liquid. It was launched in August 2023 in print in English and Greek at [ICR 2023](https://www.icr2023.com/)! <br><br><br> Rheology Comics is funded by the [Society of Rheology](https://www.rheology.org/sor/)'s Rheology Venture Fund (2023).
     section: about
 
   clients:
@@ -97,7 +97,7 @@ en: &DEFAULT_EN
   team:
     title: "OUR TEAM"
     #text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Educational Consultants Victoria Russell and Kelsey Briselli<br> Translators Yuna Hattori, Sandrine Burriel, Foteini Delisavva, Paniz Haghighi, and Simona Carotenuto
+    subtext: Educational Consultants Victoria Russell and Kelsey Briselli<br> Translators Yuna Hattori, Sandrine Burriel, Foteini Delisavva, Paniz Haghighi, Simona Carotenuto, Cornelia Küchenmeister-Lehrheuer, and Bana Shriky
     section: team
     people:
       - name: "Rob Campbell"
