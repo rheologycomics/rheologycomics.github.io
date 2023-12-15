@@ -17,12 +17,12 @@ en: &DEFAULT_EN
     #buttonlink: "#services"
 
   services:
-    title: "Get Involved"
+    title: "More"
     text: ""
     section: services
     list:
-      - title: "[Feedback](https://forms.gle/DJ9qK3gAw9SsXK2PA)"
-        desc: "Give us feedback on Rheology Comics #1 Rheology of Cats!"
+      - title: "Print as Booklets" 
+        desc: "Comming soon! Print your own copies"
         icon: fas fa-regular fa-comment #find more at https://fontawesome.com/icons
         link: "https://forms.gle/DJ9qK3gAw9SsXK2PA"
       - title: "[Translate](https://forms.gle/V4Zp4oitCafpmL7s9)"

@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     #  section: timeline
     - title: "Team"
       section: team
-    - title: "Get Involved"
+    - title: "More"
       section: services
     - title: "Contact"
       section: contact
