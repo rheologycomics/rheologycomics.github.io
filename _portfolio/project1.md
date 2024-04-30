@@ -9,8 +9,7 @@ caption:
   subtitle: Rheology Comics 1
   thumbnail: assets/img/portfolio/RC1-thumbnail.webp
 ---
-Inspired by M.A. Fardin’s Ig Nobel Prize winning article “On the rheology of cats” (2014), this comic describes the fundamentals of rheology with the aid of our favorite felines. 
-Coming August 2023.
+Inspired by M.A. Fardin’s Ig Nobel Prize winning article “On the rheology of cats” (2014), this comic describes the fundamentals of rheology with the aid of our favorite felines.
 
 {:.list-inline}
 - English: [WEB](/comic1-english) &#x2022; [CBZ]({{ site.url }}/downloads/comic1-english/RC1-English.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic1-english/RC1-English.pdf)

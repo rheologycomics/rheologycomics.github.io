@@ -42,7 +42,7 @@ image_paths:
            <a href="{{ site.url }}/downloads/comic1-czech/RC1-Czech.cbz">Download for a Comics Reader (CBZ)</a>
         </div>
         <div class="text-muted">
-           <a href="{{ site.url }}/downloads/comic1-czech/RC1-English.pdf">Download PDF</a>
+           <a href="{{ site.url }}/downloads/comic1-czech/RC1-Czech.pdf">Download PDF</a>
         </div>
         
 </div>
