@@ -39,10 +39,10 @@ image_paths:
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">ねこの流動学（日本語）</h2>
         <div class="text-muted">
-           <a href="{{ site.url }}/downloads/comic1-japanese/RC1-Japanese.cbz">Download for a Comics Reader (CBZ)</a>
+           <a href="{{ site.url }}/downloads/comic1-japanese/RC1-Japanese.cbz">コミックリーダーでダウンロード (CBZ)</a>
         </div>
         <div class="text-muted">
-           <a href="{{ site.url }}/downloads/comic1-japanese/RC1-Japanese.pdf">Download PDF</a>
+           <a href="{{ site.url }}/downloads/comic1-japanese/RC1-Japanese.pdf">PDFをダウンロード</a>
         </div>
 
 </div>
