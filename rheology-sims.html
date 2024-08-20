@@ -1,0 +1,166 @@
+---
+layout: page
+title: Flow Simulations
+permalink: /flow-simulations/
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Flow Simulations</title>
+    <!-- Load D3 and GreenSock libraries -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .video-panel {
+            width: 80%;
+            height: 400px;
+            border: 1px solid #ccc;
+            margin-bottom: 20px;
+        }
+        .controls {
+            margin-bottom: 20px;
+        }
+        .controls button {
+            margin-right: 10px;
+        }
+        .plot {
+            width: 80%;
+            height: 300px;
+            margin-bottom: 20px;
+        }
+        .explanation {
+            width: 80%;
+            margin-bottom: 20px;
+        }
+        .extra-images {
+            display: flex;
+            justify-content: space-around;
+            width: 80%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Interactive Flow Simulations</h1>
+
+        <!-- Main Video Panel -->
+        <div class="video-panel" id="video-panel">
+            <!-- SVG animations or video of material flow will go here -->
+        </div>
+
+        <!-- Control Buttons -->
+        <div class="controls">
+            <button onclick="changeModel('bingham')">Bingham Model</button>
+            <button onclick="changeModel('particle')">Particle Simulation</button>
+            <input type="range" min="0" max="100" value="50" id="param1" oninput="updateParam1(this.value)"> Parameter 1
+            <input type="range" min="0" max="100" value="50" id="param2" oninput="updateParam2(this.value)"> Parameter 2
+            <input type="range" min="0" max="100" value="50" id="param3" oninput="updateParam3(this.value)"> Parameter 3
+        </div>
+
+        <!-- Line Plot for Stress vs. Strain -->
+        <div class="plot" id="stress-strain-plot">
+            <!-- D3 plot will be generated here -->
+        </div>
+
+        <!-- Explanatory Text -->
+        <div class="explanation">
+            <h2>Explanation</h2>
+            <p id="explanation-text">Select a model to view the flow simulation and stress-strain relationship.</p>
+        </div>
+
+        <!-- Additional Images/Icons -->
+        <div class="extra-images">
+            <img src="your-icon1.png" alt="Icon 1" width="100">
+            <img src="your-icon2.png" alt="Icon 2" width="100">
+        </div>
+    </div>
+
+    <script>
+        function changeModel(model) {
+            // Change the displayed model and update the video panel
+            const videoPanel = document.getElementById('video-panel');
+            const explanationText = document.getElementById('explanation-text');
+
+            if (model === 'bingham') {
+                videoPanel.innerHTML = '<!-- Bingham Model SVG/Video -->';
+                explanationText.innerHTML = 'Bingham Model simulation running...';
+                // Start D3 animation for stress-strain plot
+                startStressStrainPlot(model);
+            } else if (model === 'particle') {
+                videoPanel.innerHTML = '<!-- Particle Simulation SVG/Video -->';
+                explanationText.innerHTML = 'Particle Simulation running...';
+                // Start D3 animation for stress-strain plot
+                startStressStrainPlot(model);
+            }
+        }
+
+        function updateParam1(value) {
+            console.log('Parameter 1:', value);
+            // Update model or animation based on parameter
+        }
+
+        function updateParam2(value) {
+            console.log('Parameter 2:', value);
+            // Update model or animation based on parameter
+        }
+
+        function updateParam3(value) {
+            console.log('Parameter 3:', value);
+            // Update model or animation based on parameter
+        }
+
+        function startStressStrainPlot(model) {
+            const svg = d3.select("#stress-strain-plot").append("svg")
+                .attr("width", "100%")
+                .attr("height", "100%");
+
+            const data = generateStressStrainData(model);
+
+            const xScale = d3.scaleLinear()
+                .domain([0, d3.max(data, d => d.strain)])
+                .range([0, 600]);
+
+            const yScale = d3.scaleLinear()
+                .domain([0, d3.max(data, d => d.stress)])
+                .range([300, 0]);
+
+            const line = d3.line()
+                .x(d => xScale(d.strain))
+                .y(d => yScale(d.stress));
+
+            svg.append("path")
+                .datum(data)
+                .attr("fill", "none")
+                .attr("stroke", "steelblue")
+                .attr("stroke-width", 2)
+                .attr("d", line);
+
+            // Animate the line plot over time
+            gsap.fromTo(svg.selectAll("path"), {drawSVG: "0%"}, {duration: 2, drawSVG: "100%"});
+        }
+
+        function generateStressStrainData(model) {
+            // Generate dummy stress-strain data based on the model
+            if (model === 'bingham') {
+                return [...Array(100).keys()].map(i => ({strain: i/100, stress: Math.log(i+1)}));
+            } else if (model === 'particle') {
+                return [...Array(100).keys()].map(i => ({strain: i/100, stress: Math.sin(i/10)}));
+            }
+            return [];
+        }
+    </script>
+</body>
+</html>
+
