@@ -44,6 +44,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
 
-include:
-  - .html
+#include:
+#  - .html
 
