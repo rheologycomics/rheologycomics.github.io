@@ -1,22 +1,18 @@
 ---
-title: Issue 2
-#subtitle: Coming Soon 
+title: Mouthfeel
+#subtitle: Your mouth is a rheometer 
 image: assets/img/portfolio/RC2-full.webp
-alt: Placehoder image that says Coming Soon
+alt: A cartoon dog with their tongue hanging out, holding a drippy double-scoop ice cream cone with a cherry on top.
 
 caption:
-  title: Issue 2
-  subtitle: Coming Soon
+  title: Mouthfeel
+  subtitle: Rheology Comics 2 
   thumbnail: assets/img/portfolio/RC2-thumbnail.webp
 ---
-Issue 2 will be announced later this year!
+Your mouth is a rheometer! A specialized tool for measuring rheological properties - but you'll need a different rheometer to test things other than food... This comic introduces what a rheometer is and how and why to use one.
 
 {:.list-inline}
-- English: TBD
-- Greek: TBD
-- French: TBD
-- Persian: TBD
-- Japanese: TBD
+- English: [WEB](/comic2-english) &#x2022; [CBZ]({{ site.url }}/downloads/comic2-english/RC2-English.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic2-english/RC2-English.pdf)
 - And more coming soon!
 
 
