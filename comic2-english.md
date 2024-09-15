@@ -2,29 +2,29 @@
 layout: page
 title: Mouthfeel
 image_paths:
-  - path: assets/img/comic2/RC2-english/RC2-English_01.webp 
+  - path: assets/img/comic2/RC2-english/RC2_English_01.webp 
     alt: "Front Cover"
-  - path: assets/img/comic2/RC2-english/RC2-English_02.webp
+  - path: assets/img/comic2/RC2-english/RC2_English_02.webp
     alt: "Insider Front Cover"
-  - path: assets/img/comic2/RC2-english/RC2-English_03.webp
+  - path: assets/img/comic2/RC2-english/RC2_English_03.webp
     alt: "page 1"
-  - path: assets/img/comic2/RC2-english/RC2-English_04.webp
+  - path: assets/img/comic2/RC2-english/RC2_English_04.webp
     alt: "page 2"
-  - path: assets/img/comic2/RC2-english/RC2-English_05.webp
+  - path: assets/img/comic2/RC2-english/RC2_English_05.webp
     alt: "page 3"
-  - path: assets/img/comic2/RC2-english/RC2-English_06.webp
+  - path: assets/img/comic2/RC2-english/RC2_English_06.webp
     alt: "page 4"
-  - path: assets/img/comic2/RC2-english/RC2-English_07.webp
+  - path: assets/img/comic2/RC2-english/RC2_English_07.webp
     alt: "page 5"
-  - path: assets/img/comic2/RC2-english/RC2-English_08.webp
+  - path: assets/img/comic2/RC2-english/RC2_English_08.webp
     alt: "page 6"
-  - path: assets/img/comic2/RC2-english/RC2-English_09.webp
+  - path: assets/img/comic2/RC2-english/RC2_English_09.webp
     alt: "page 7"
-  - path: assets/img/comic2/RC2-english/RC2-English_10.webp
+  - path: assets/img/comic2/RC2-english/RC2_English_10.webp
     alt: "Inside Back Cover"
-  - path: assets/img/comic2/RC2-english/RC2-English_11.webp
+  - path: assets/img/comic2/RC2-english/RC2_English_11.webp
     alt: "Back Cover"
-  - path: assets/img/comic2/RC2-english/RC2-English_12.webp
+  - path: assets/img/comic2/RC2-english/RC2_English_12.webp
 ---
 
 <div class="col-lg-12 text-center">
