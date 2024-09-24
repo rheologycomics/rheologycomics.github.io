@@ -13,7 +13,7 @@ Inspired by M.A. Fardin’s Ig Nobel Prize winning article “On the rheology of
 
 {:.list-inline}
 - English: [WEB](/comic1-english) &#x2022; [CBZ]({{ site.url }}/downloads/comic1-english/RC1-English.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic1-english/RC1-English.pdf)
-'---'
+- ~
 - العربية: [WEB](/comic1-arabic) &#x2022; [CBZ]({{ site.url }}/downloads/comic1-arabic/RC1-Arabic.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic1-arabic/RC1-Arabic.pdf)
 - čeština: [WEB](/comic1-czech) &#x2022; [CBZ]({{ site.url }}/downloads/comic1-czech/RC1-Czech.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic1-czech/RC1-Czech.pdf)
 - Deutsch: [WEB](/comic1-german) &#x2022; [CBZ]({{ site.url }}/downloads/comic1-german/RC1-German.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic1-german/RC1-German.pdf)
