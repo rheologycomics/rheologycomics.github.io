@@ -13,7 +13,21 @@ Your mouth is a rheometer! A specialized tool for measuring rheological properti
 
 {:.list-inline}
 - English: [WEB](/comic2-english) &#x2022; [CBZ]({{ site.url }}/downloads/comic2-english/RC2-English.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic2-english/RC2-English.pdf)
-- And more coming soon!
+'---'
+- العربية: Coming Soon!
+- čeština: Coming Soon!
+- Deutsch: Coming Soon! 
+- Ελληνικά: Coming Soon! 
+- Español: Coming Soon! 
+- فارسی: Coming Soon!  
+- Français: Coming Soon!  
+- 한국인: Coming Soon!
+- हिंदी: Coming Soon!
+- Italiano: Coming Soon! 
+- 日本語: Coming Soon! 
+- Português Brasileiro: Coming Soon!
+- ไทย: Coming Soon! 
+
 
 
 
