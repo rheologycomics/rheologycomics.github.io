@@ -21,7 +21,7 @@ Your mouth is a rheometer! A specialized tool for measuring rheological properti
 - Español: Coming Soon! 
 - فارسی: Coming Soon!  
 - Français: Coming Soon!  
-- 한국인: Coming Soon!
+- 한국어: Coming Soon!
 - हिंदी: Coming Soon!
 - Italiano: Coming Soon! 
 - 日本語: Coming Soon! 
