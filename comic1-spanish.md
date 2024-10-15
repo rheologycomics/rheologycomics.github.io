@@ -39,10 +39,10 @@ image_paths:
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">La Reología de los Gatos (Español)</h2>
         <div class="text-muted">
-           <a href="{{ site.url }}/downloads/comic1-spanish/RC1-Spanish.cbz">Download for a Comics Reader (CBZ)</a>
+           <a href="{{ site.url }}/downloads/comic1-spanish/RC1-Spanish.cbz">Descarga para un lector de cómics (CBZ)</a>
         </div>
         <div class="text-muted">
-           <a href="{{ site.url }}/downloads/comic1-spanish/RC1-Spanish.pdf">Download PDF</a>
+           <a href="{{ site.url }}/downloads/comic1-spanish/RC1-Spanish.pdf">Descarga PDF</a>
         </div>
 
 </div>
