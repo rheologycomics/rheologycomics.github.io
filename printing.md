@@ -15,14 +15,15 @@ title: Printing
     </div>
 </div>
 
+<br><br>
 <!-- Section for English printing options -->
 <div id="english" class="col-lg-12 text-left">
     <h3>ENGLISH</h3>
     <p><strong>Print at home:</strong><br>
     Print double-sided on any standard printer, and then staple together into a booklet.</p>
     <ul>
-        <li>Rheology of Cats: <a href="{{ site.url }}/downloads/comic1-english/RC1-English-v1.2-USbooklet.pdf">US letter booklet</a> ; <a href="{{ site.url }}/downloads/comic1-english/RC1-English-v1.2-A4booklet.pdf">A4 booklet</a></li>
-        <li>Mouthfeel: <a href="{{ site.url }}/downloads/comic2-english/RC2-English-v1.0-USbooklet.pdf">US letter booklet</a> ; <a href="{{ site.url }}/downloads/comic2-english/RC2-English-v1.0-A4booklet.pdf">A4 booklet</a></li>
+        <li>Rheology of Cats: <a href="{{ site.url }}/downloads/comic1-english/RC1-English-v1.2-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-english/RC1-English-v1.2-A4booklet.pdf">A4 booklet</a></li>
+        <li>Mouthfeel: <a href="{{ site.url }}/downloads/comic2-english/RC2-English-v1.0-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic2-english/RC2-English-v1.0-A4booklet.pdf">A4 booklet</a></li>
     </ul>
 
     <p><strong>Print at a print shop:</strong><br>

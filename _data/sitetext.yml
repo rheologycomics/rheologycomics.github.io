@@ -21,10 +21,10 @@ en: &DEFAULT_EN
     text: ""
     section: services
     list:
-      - title: "Print as Booklets" 
-        desc: "Comming soon! Print your own copies"
+      - title: "[Print]({{ site.url }}/printing)" 
+        desc: "Print your own comic booklets"
+        link: "{{ site.url }}/printing" 
         icon: fas fa-regular fa-book-open #find more at https://fontawesome.com/icons
-        link: "{{ site.baseurl }}/printing" 
       - title: "[Learn](https://www.rheology.org/sor/)"
         desc: "Explore more rheology with Society of Rheology!"
         link: "https://www.rheology.org/sor/"
@@ -77,7 +77,7 @@ en: &DEFAULT_EN
   about:
     title: "About"
     #text: "Funded by the Society of Rheology's Rheology Venture Fund (2023)."
-    body: Rheology is fun! It connects our intuitive experience of texture and touch to all kinds of cutting edge science and applications. But when we talk about rheology research, things get technical fast. <br><br> The Rheology Comics project is a series of four short comics designed to help readers connect these technical details to the joys of rheology. Each comic is aimed at ages 10+ and will be available in English, Greek, French, Spanish, Italian, German, Czech, Japanese, Persian, Arabic, Thai, Korean, Hindi, and Brazilin Portuguese. <br><br> Our first issue, “Rheology of Cats,” covers the basics of stress and strain to help us ask if cats are solid or liquid. It was launched in August 2023 in print in English and Greek at [ICR 2023](https://www.icr2023.com/)! <br><br><br> Rheology Comics is funded by the [Society of Rheology](https://www.rheology.org/sor/)'s Rheology Venture Fund (2023).
+    body: Rheology is fun! It connects our intuitive experience of texture and touch to all kinds of cutting edge science and applications. But when we talk about rheology research, things get technical fast. <br><br> The Rheology Comics project is a series of four short comics designed to help readers connect these technical details to the joys of rheology. Each comic is aimed at ages 10+ and will be available in 14 languages-- English, Greek, French, Spanish, Italian, Brazilian Portuguese, German, Czech, Japanese, Persian, Arabic, Thai, Korean, and Hindi. <br><br> Our first issue, “Rheology of Cats,” covers the basics of stress and strain to help us ask if cats are solid or liquid. It was launched in August 2023 in print in English and Greek at [ICR 2023](https://www.icr2023.com/)! <br><br><br> Rheology Comics is funded by the [Society of Rheology](https://www.rheology.org/sor/)'s Rheology Venture Fund (2023).
     section: about
 
   clients:
