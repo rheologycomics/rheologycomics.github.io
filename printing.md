@@ -2,8 +2,6 @@
 layout: page
 title: Printing 
 ---
-<div id="top"></div>
-
 <div class="col-lg-12 text-center">
     <h2 class="section-heading text-uppercase">Printing</h2>
     
@@ -18,8 +16,7 @@ title: Printing
 
 <br><br>
 <!-- Section for English printing options -->
-<div id="english"></div>
-<div class="col-lg-12 text-left">
+<div id="english" class="col-lg-12 text-left">
     <h3>ENGLISH</h3>
     <p><strong>Print at home:</strong><br>
     Print double-sided on any standard printer, and then staple together into a booklet.</p>
@@ -35,16 +32,15 @@ title: Printing
         <li>Mouthfeel: <a href="{{ site.url }}/downloads/comic2-english/RC2-English-v1.0-print.pdf">PDF with marks and bleed</a></li>
     </ul>
 
-    <p><a href="#top">Choose a different language</a></p>
+    <p><a href="#other-languages">Choose a different language</a></p>
 </div>
 
 <br><br>
 <!-- Section for other languages -->
-<div id="other-languages"></div>
-<div class="col-lg-12 text-left">
+<div id="other-languages" class="col-lg-12 text-left">
     <h3>OTHER LANGUAGES</h3>
     <p>Coming soon!</p>
 
-    <p><a href="#top">Choose a different language</a></p>
+    <p><a href="#english">Print in English</a></p>
 </div>
 
