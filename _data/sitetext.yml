@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     text: ""
     section: services
     list:
-      - title: "[Print]({{ site.url }}/printing)" 
+      - title: "[Print](printing)" 
         desc: "Print your own comic booklets"
         link: "printing" 
         icon: fas fa-regular fa-book-open #find more at https://fontawesome.com/icons
