@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "[Print]({{ site.url }}/printing)" 
         desc: "Print your own comic booklets"
-        link: "{{ site.url }}/printing" 
+        link: "printing" 
         icon: fas fa-regular fa-book-open #find more at https://fontawesome.com/icons
       - title: "[Learn](https://www.rheology.org/sor/)"
         desc: "Explore more rheology with Society of Rheology!"

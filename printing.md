@@ -34,6 +34,7 @@ title: Printing
     </ul>
 </div>
 
+<br><br>
 <!-- Section for other languages -->
 <div id="other-languages" class="col-lg-12 text-left">
     <h3>OTHER LANGUAGES</h3>
