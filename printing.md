@@ -47,15 +47,15 @@ title: Printing
         <li>English: <a href="{{ site.url }}/downloads/comic2-english/RC2-English-v1.0-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic2-english/RC2-English-v1.0-A4booklet.pdf">A4 booklet</a></li>
         <li>العربية: Coming Soon!</li>
         <li>čeština: Coming Soon!</li>
-        <li>Deutsch: Coming Soon!</li>
+        <li>Deutsch: <a href="{{ site.url }}/downloads/comic2-german/RC2-German-v1.0-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic2-german/RC2-German-v1.0-A4booklet.pdf">A4 booklet</a></li> 
         <li>Ελληνικά: Coming Soon!</li>
-        <li>Español: Coming Soon!</li>
+        <li>Español: <a href="{{ site.url }}/downloads/comic2-spanish/RC2-Spanish-v1.0-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic2-spanish/RC2-Spanish-v1.0-A4booklet.pdf">A4 booklet</a></li>
         <li>فارسی: Coming Soon!</li>
         <li>Français: Coming Soon!</li>
         <li>한국어: Coming Soon!</li>
         <li>हिंदी: Coming Soon!</li>
         <li>Italiano: Coming Soon!</li>
-        <li>日本語: Coming Soon!</li>
+        <li>日本語: <a href="{{ site.url }}/downloads/comic2-japanese/RC2-Japanese-v1.0-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic2-japanese/RC2-Japanese-v1.0-A4booklet.pdf">A4 booklet</a></li>
         <li>Português Brasileiro: Coming Soon!</li>
         <li>ไทย: Coming Soon!</li> 
     </ul>
@@ -89,15 +89,15 @@ title: Printing
         <li>English: <a href="{{ site.url }}/downloads/comic2-english/RC2-English-v1.0-print.pdf">PDF with marks and bleed</a></li>
         <li>العربية: Coming Soon!</li>
         <li>čeština: Coming Soon!</li>
-        <li>Deutsch: Coming Soon!</li>
+        <li>Deutsch:  <a href="{{ site.url }}/downloads/comic2-german/RC2-German-v1.0-print.pdf">PDF with marks and bleed</a></li>
         <li>Ελληνικά: Coming Soon!</li>
-        <li>Español: Coming Soon!</li>
+        <li>Español:  <a href="{{ site.url }}/downloads/comic2-spanish/RC2-Spanish-v1.0-print.pdf">PDF with marks and bleed</a></li>
         <li>فارسی: Coming Soon!</li>
         <li>Français: Coming Soon!</li>
         <li>한국어: Coming Soon!</li>
         <li>हिंदी: Coming Soon!</li>
         <li>Italiano: Coming Soon!</li>
-        <li>日本語: Coming Soon!</li>
+        <li>日本語:  <a href="{{ site.url }}/downloads/comic2-japanese/RC2-Japanese-v1.0-print.pdf">PDF with marks and bleed</a></li>
         <li>Português Brasileiro: Coming Soon!</li>
         <li>ไทย: Coming Soon!</li> 
     </ul>
