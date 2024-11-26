@@ -7,7 +7,7 @@ title: Printing
     
     <!-- Centered links for home and pro printing -->
     <div class="text-muted">
-        <p>Print your own comics as booklets!</a> 
+        <p>Print your own comics as booklets!</p> 
     </div>
     <div class="text-muted">
         <a href="#home">Print at home</a> 
@@ -35,29 +35,29 @@ title: Printing
         <li>Español: <a href="{{ site.url }}/downloads/comic1-spanish/RC1-Spanish-v1.2-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-spanish/RC1-Spanish-v1.2-A4booklet.pdf">A4 booklet</a></li>
         <li>فارسی: <a href="{{ site.url }}/downloads/comic1-persian/RC1-Persian-v1.2-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-persian/RC1-Persian-v1.2-A4booklet.pdf">A4 booklet</a></li>
         <li>Français: <a href="{{ site.url }}/downloads/comic1-french/RC1-French-v1.2-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-french/RC1-French-v1.2-A4booklet.pdf">A4 booklet</a></li>
-        <li>한국어: Coming Soon!<li>
-        <li>हिंदी: Coming Soon!<li>
+        <li>한국어: Coming Soon!</li>
+        <li>हिंदी: Coming Soon!</li>
         <li>Italiano: <a href="{{ site.url }}/downloads/comic1-italian/RC1-Italian-v1.2-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-italian/RC1-Italian-v1.2-A4booklet.pdf">A4 booklet</a></li>
         <li>日本語: <a href="{{ site.url }}/downloads/comic1-japanese/RC1-Japanese-v1.2-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-japanese/RC1-Japanese-v1.2-A4booklet.pdf">A4 booklet</a></li>
-        <li>Português Brasileiro: Coming Soon!<li>
+        <li>Português Brasileiro: Coming Soon!</li>
         <li>ไทย: <a href="{{ site.url }}/downloads/comic1-thai/RC1-Thai-v1.2-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-thai/RC1-Thai-v1.2-A4booklet.pdf">A4 booklet</a></li>
     </ul>
     <p>Mouthfeel</p>
     <ul>
         <li>English: <a href="{{ site.url }}/downloads/comic2-english/RC2-English-v1.0-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic2-english/RC2-English-v1.0-A4booklet.pdf">A4 booklet</a></li>
-        <li>العربية: Coming Soon!<li>
-        <li>čeština: Coming Soon!<li>
-        <li>Deutsch: Coming Soon!<li>
-        <li>Ελληνικά: Coming Soon!<li>
-        <li>Español: Coming Soon!<li>
-        <li>فارسی: Coming Soon!<li>
-        <li>Français: Coming Soon!<li>
-        <li>한국어: Coming Soon!<li>
-        <li>हिंदी: Coming Soon!<li>
-        <li>Italiano: Coming Soon!<li>
-        <li>日本語: Coming Soon!<li>
-        <li>Português Brasileiro: Coming Soon!<li>
-        <li>ไทย: Coming Soon!<li> 
+        <li>العربية: Coming Soon!</li>
+        <li>čeština: Coming Soon!</li>
+        <li>Deutsch: Coming Soon!</li>
+        <li>Ελληνικά: Coming Soon!</li>
+        <li>Español: Coming Soon!</li>
+        <li>فارسی: Coming Soon!</li>
+        <li>Français: Coming Soon!</li>
+        <li>한국어: Coming Soon!</li>
+        <li>हिंदी: Coming Soon!</li>
+        <li>Italiano: Coming Soon!</li>
+        <li>日本語: Coming Soon!</li>
+        <li>Português Brasileiro: Coming Soon!</li>
+        <li>ไทย: Coming Soon!</li> 
     </ul>
 </div>
 
@@ -77,29 +77,29 @@ title: Printing
         <li>Español: <a href="{{ site.url }}/downloads/comic1-spanish/RC1-Spanish-v1.2-print.pdf">PDF with marks and bleed</a></li>
         <li>فارسی: <a href="{{ site.url }}/downloads/comic1-persian/RC1-Persian-v1.2-print.pdf">PDF with marks and bleed</a></li>
         <li>Français: <a href="{{ site.url }}/downloads/comic1-french/RC1-French-v1.2-print.pdf">PDF with marks and bleed</a></li>
-        <li>한국어: Coming Soon!<li>
-        <li>हिंदी: Coming Soon!<li>
+        <li>한국어: Coming Soon!</li>
+        <li>हिंदी: Coming Soon!</li>
         <li>Italiano: <a href="{{ site.url }}/downloads/comic1-italian/RC1-Italian-v1.2-print.pdf">PDF with marks and bleed</a></li>
         <li>日本語: <a href="{{ site.url }}/downloads/comic1-japanese/RC1-Japanese-v1.2-print.pdf">PDF with marks and bleed</a></li>
-        <li>Português Brasileiro: Coming Soon!<li>
+        <li>Português Brasileiro: Coming Soon!</li>
         <li>ไทย: <a href="{{ site.url }}/downloads/comic1-thai/RC1-Thai-v1.2-print.pdf">PDF with marks and bleed</a></li>
     </ul>
     <p>Mouthfeel</p>
     <ul>
         <li>English: <a href="{{ site.url }}/downloads/comic2-english/RC2-English-v1.0-print.pdf">PDF with marks and bleed</a></li>
-        <li>العربية: Coming Soon!<li>
-        <li>čeština: Coming Soon!<li>
-        <li>Deutsch: Coming Soon!<li>
-        <li>Ελληνικά: Coming Soon!<li>
-        <li>Español: Coming Soon!<li>
-        <li>فارسی: Coming Soon!<li>
-        <li>Français: Coming Soon!<li>
-        <li>한국어: Coming Soon!<li>
-        <li>हिंदी: Coming Soon!<li>
-        <li>Italiano: Coming Soon!<li>
-        <li>日本語: Coming Soon!<li>
-        <li>Português Brasileiro: Coming Soon!<li>
-        <li>ไทย: Coming Soon!<li> 
+        <li>العربية: Coming Soon!</li>
+        <li>čeština: Coming Soon!</li>
+        <li>Deutsch: Coming Soon!</li>
+        <li>Ελληνικά: Coming Soon!</li>
+        <li>Español: Coming Soon!</li>
+        <li>فارسی: Coming Soon!</li>
+        <li>Français: Coming Soon!</li>
+        <li>한국어: Coming Soon!</li>
+        <li>हिंदी: Coming Soon!</li>
+        <li>Italiano: Coming Soon!</li>
+        <li>日本語: Coming Soon!</li>
+        <li>Português Brasileiro: Coming Soon!</li>
+        <li>ไทย: Coming Soon!</li> 
     </ul>
 
 </div>
