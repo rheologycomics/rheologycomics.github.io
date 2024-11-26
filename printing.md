@@ -28,19 +28,19 @@ title: Printing
     Rheology of Cats</p>
     <ul>
         <li>English: <a href="{{ site.url }}/downloads/comic1-english/RC1-English-v1.2-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-english/RC1-English-v1.2-A4booklet.pdf">A4 booklet</a></li>
-        <li>العربية: <a href="{{ site.url }}/downloads/comic1-arabic/RC1-Arabic-v1.2-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-arabic/RC1-Arabic-v1.2-A4booklet.pdf">A4 booklet</a></li>
-        <li>čeština:<a href="{{ site.url }}/downloads/comic1-czech/RC1-Czech-v1.2-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-czech/RC1-Czech-v1.2-A4booklet.pdf">A4 booklet</a></li>
-        <li>Deutsch: <a href="{{ site.url }}/downloads/comic1-german/RC1-German-v1.2-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-german/RC1-German-v1.2-A4booklet.pdf">A4 booklet</a></li>
-        <li>Ελληνικά: <a href="{{ site.url }}/downloads/comic1-greek/RC1-Greek-v1.2-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-greek/RC1-Greek-v1.2-A4booklet.pdf">A4 booklet</a></li>
-        <li>Español: <a href="{{ site.url }}/downloads/comic1-spanish/RC1-Spanish-v1.2-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-spanish/RC1-Spanish-v1.2-A4booklet.pdf">A4 booklet</a></li>
-        <li>فارسی: <a href="{{ site.url }}/downloads/comic1-persian/RC1-Persian-v1.2-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-persian/RC1-Persian-v1.2-A4booklet.pdf">A4 booklet</a></li>
-        <li>Français: <a href="{{ site.url }}/downloads/comic1-french/RC1-French-v1.2-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-french/RC1-French-v1.2-A4booklet.pdf">A4 booklet</a></li>
+        <li>العربية: <a href="{{ site.url }}/downloads/comic1-arabic/RC1-Arabic-v1.1-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-arabic/RC1-Arabic-v1.1-A4booklet.pdf">A4 booklet</a></li>
+        <li>čeština:<a href="{{ site.url }}/downloads/comic1-czech/RC1-Czech-v1.1-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-czech/RC1-Czech-v1.1-A4booklet.pdf">A4 booklet</a></li>
+        <li>Deutsch: <a href="{{ site.url }}/downloads/comic1-german/RC1-German-v1.1-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-german/RC1-German-v1.1-A4booklet.pdf">A4 booklet</a></li>
+        <li>Ελληνικά: <a href="{{ site.url }}/downloads/comic1-greek/RC1-Greek-v1.1-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-greek/RC1-Greek-v1.1-A4booklet.pdf">A4 booklet</a></li>
+        <li>Español: <a href="{{ site.url }}/downloads/comic1-spanish/RC1-Spanish-v1.1-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-spanish/RC1-Spanish-v1.1-A4booklet.pdf">A4 booklet</a></li>
+        <li>فارسی: <a href="{{ site.url }}/downloads/comic1-persian/RC1-Persian-v1.1-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-persian/RC1-Persian-v1.1-A4booklet.pdf">A4 booklet</a></li>
+        <li>Français: <a href="{{ site.url }}/downloads/comic1-french/RC1-French-v1.1-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-french/RC1-French-v1.1-A4booklet.pdf">A4 booklet</a></li>
         <li>한국어: Coming Soon!</li>
         <li>हिंदी: Coming Soon!</li>
-        <li>Italiano: <a href="{{ site.url }}/downloads/comic1-italian/RC1-Italian-v1.2-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-italian/RC1-Italian-v1.2-A4booklet.pdf">A4 booklet</a></li>
-        <li>日本語: <a href="{{ site.url }}/downloads/comic1-japanese/RC1-Japanese-v1.2-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-japanese/RC1-Japanese-v1.2-A4booklet.pdf">A4 booklet</a></li>
+        <li>Italiano: <a href="{{ site.url }}/downloads/comic1-italian/RC1-Italian-v1.1-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-italian/RC1-Italian-v1.1-A4booklet.pdf">A4 booklet</a></li>
+        <li>日本語: <a href="{{ site.url }}/downloads/comic1-japanese/RC1-Japanese-v1.1-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-japanese/RC1-Japanese-v1.1-A4booklet.pdf">A4 booklet</a></li>
         <li>Português Brasileiro: Coming Soon!</li>
-        <li>ไทย: <a href="{{ site.url }}/downloads/comic1-thai/RC1-Thai-v1.2-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-thai/RC1-Thai-v1.2-A4booklet.pdf">A4 booklet</a></li>
+        <li>ไทย: <a href="{{ site.url }}/downloads/comic1-thai/RC1-Thai-v1.1-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic1-thai/RC1-Thai-v1.1-A4booklet.pdf">A4 booklet</a></li>
     </ul>
     <p>Mouthfeel</p>
     <ul>
@@ -70,19 +70,19 @@ title: Printing
     Rheology of Cats</p>
     <ul>
         <li>English: <a href="{{ site.url }}/downloads/comic1-english/RC1-English-v1.2-print.pdf">PDF with marks and bleed</a></li>
-        <li>العربية: <a href="{{ site.url }}/downloads/comic1-arabic/RC1-Arabic-v1.2-print.pdf">PDF with marks and bleed</a></li> 
-        <li>čeština: <a href="{{ site.url }}/downloads/comic1-czech/RC1-Czech-v1.2-print.pdf">PDF with marks and bleed</a></li>
-        <li>Deutsch: <a href="{{ site.url }}/downloads/comic1-german/RC1-German-v1.2-print.pdf">PDF with marks and bleed</a></li>
-        <li>Ελληνικά: <a href="{{ site.url }}/downloads/comic1-greek/RC1-Greek-v1.2-print.pdf">PDF with marks and bleed</a></li>
-        <li>Español: <a href="{{ site.url }}/downloads/comic1-spanish/RC1-Spanish-v1.2-print.pdf">PDF with marks and bleed</a></li>
-        <li>فارسی: <a href="{{ site.url }}/downloads/comic1-persian/RC1-Persian-v1.2-print.pdf">PDF with marks and bleed</a></li>
-        <li>Français: <a href="{{ site.url }}/downloads/comic1-french/RC1-French-v1.2-print.pdf">PDF with marks and bleed</a></li>
+        <li>العربية: <a href="{{ site.url }}/downloads/comic1-arabic/RC1-Arabic-v1.1-print.pdf">PDF with marks and bleed</a></li> 
+        <li>čeština: <a href="{{ site.url }}/downloads/comic1-czech/RC1-Czech-v1.1-print.pdf">PDF with marks and bleed</a></li>
+        <li>Deutsch: <a href="{{ site.url }}/downloads/comic1-german/RC1-German-v1.1-print.pdf">PDF with marks and bleed</a></li>
+        <li>Ελληνικά: <a href="{{ site.url }}/downloads/comic1-greek/RC1-Greek-v1.1-print.pdf">PDF with marks and bleed</a></li>
+        <li>Español: <a href="{{ site.url }}/downloads/comic1-spanish/RC1-Spanish-v1.1-print.pdf">PDF with marks and bleed</a></li>
+        <li>فارسی: <a href="{{ site.url }}/downloads/comic1-persian/RC1-Persian-v1.1-print.pdf">PDF with marks and bleed</a></li>
+        <li>Français: <a href="{{ site.url }}/downloads/comic1-french/RC1-French-v1.1-print.pdf">PDF with marks and bleed</a></li>
         <li>한국어: Coming Soon!</li>
         <li>हिंदी: Coming Soon!</li>
-        <li>Italiano: <a href="{{ site.url }}/downloads/comic1-italian/RC1-Italian-v1.2-print.pdf">PDF with marks and bleed</a></li>
-        <li>日本語: <a href="{{ site.url }}/downloads/comic1-japanese/RC1-Japanese-v1.2-print.pdf">PDF with marks and bleed</a></li>
+        <li>Italiano: <a href="{{ site.url }}/downloads/comic1-italian/RC1-Italian-v1.1-print.pdf">PDF with marks and bleed</a></li>
+        <li>日本語: <a href="{{ site.url }}/downloads/comic1-japanese/RC1-Japanese-v1.1-print.pdf">PDF with marks and bleed</a></li>
         <li>Português Brasileiro: Coming Soon!</li>
-        <li>ไทย: <a href="{{ site.url }}/downloads/comic1-thai/RC1-Thai-v1.2-print.pdf">PDF with marks and bleed</a></li>
+        <li>ไทย: <a href="{{ site.url }}/downloads/comic1-thai/RC1-Thai-v1.1-print.pdf">PDF with marks and bleed</a></li>
     </ul>
     <p>Mouthfeel</p>
     <ul>
