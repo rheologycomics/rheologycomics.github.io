@@ -48,7 +48,7 @@ title: Printing
         <li>العربية: Coming Soon!</li>
         <li>čeština: Coming Soon!</li>
         <li>Deutsch: <a href="{{ site.url }}/downloads/comic2-german/RC2-German-v1.0-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic2-german/RC2-German-v1.0-A4booklet.pdf">A4 booklet</a></li> 
-        <li>Ελληνικά: Coming Soon!</li>
+        <li>Ελληνικά: <a href="{{ site.url }}/downloads/comic2-greek/RC2-Greek-v1.0-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic2-greek/RC2-Greek-v1.0-A4booklet.pdf">A4 booklet</a></li> 
         <li>Español: <a href="{{ site.url }}/downloads/comic2-spanish/RC2-Spanish-v1.0-USbooklet.pdf">US letter booklet</a> • <a href="{{ site.url }}/downloads/comic2-spanish/RC2-Spanish-v1.0-A4booklet.pdf">A4 booklet</a></li>
         <li>فارسی: Coming Soon!</li>
         <li>Français: Coming Soon!</li>
@@ -89,9 +89,9 @@ title: Printing
         <li>English: <a href="{{ site.url }}/downloads/comic2-english/RC2-English-v1.0-print.pdf">PDF with marks and bleed</a></li>
         <li>العربية: Coming Soon!</li>
         <li>čeština: Coming Soon!</li>
-        <li>Deutsch:  <a href="{{ site.url }}/downloads/comic2-german/RC2-German-v1.0-print.pdf">PDF with marks and bleed</a></li>
-        <li>Ελληνικά: Coming Soon!</li>
-        <li>Español:  <a href="{{ site.url }}/downloads/comic2-spanish/RC2-Spanish-v1.0-print.pdf">PDF with marks and bleed</a></li>
+        <li>Deutsch: <a href="{{ site.url }}/downloads/comic2-german/RC2-German-v1.0-print.pdf">PDF with marks and bleed</a></li>
+        <li>Ελληνικά: <a href="{{ site.url }}/downloads/comic2-greek/RC2-Greek-v1.0-print.pdf">PDF with marks and bleed</a></li>
+        <li>Español: <a href="{{ site.url }}/downloads/comic2-spanish/RC2-Spanish-v1.0-print.pdf">PDF with marks and bleed</a></li>
         <li>فارسی: Coming Soon!</li>
         <li>Français: Coming Soon!</li>
         <li>한국어: Coming Soon!</li>
