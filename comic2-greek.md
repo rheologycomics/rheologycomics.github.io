@@ -28,7 +28,7 @@ image_paths:
 ---
 
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Αισθήσεις του στόματος (Ελληνικά)</h2>
+	<h2 class="section-heading text-uppercase">ΑΙΣΘΗΣΕΙΣ ΤΟΥ ΣΤΟΜΑΤΟΣ (Ελληνικά)</h2>
         <div class="text-muted">
            <a href="{{ site.url }}/downloads/comic2-greek/RC2-Greek.cbz">Κατέβασε για Comics Reader (CBZ)</a>
         </div>
