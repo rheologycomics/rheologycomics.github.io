@@ -27,4 +27,4 @@ Inspired by M.A. Fardin’s Ig Nobel Prize winning article “On the rheology of
 - 日本語: [WEB](/comic1-japanese) &#x2022; [CBZ]({{ site.url }}/downloads/comic1-japanese/RC1-Japanese.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic1-japanese/RC1-Japanese.pdf)
 - Português Brasileiro: Coming Soon!
 - ไทย: [WEB](/comic1-thai) &#x2022; [CBZ]({{ site.url }}/downloads/comic1-thai/RC1-Thai.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic1-thai/RC1-Thai.pdf)
-
+- Türkçe: Coming Soon!

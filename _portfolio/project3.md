@@ -27,6 +27,4 @@ A simulation is more than just fantasy! Computer simulations are an important pa
 - 日本語: Coming Soon! 
 - Português Brasileiro: Coming Soon!
 - ไทย: Coming Soon! 
-
-
-
+- Türkçe: Coming Soon!
