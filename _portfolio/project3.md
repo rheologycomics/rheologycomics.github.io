@@ -9,7 +9,7 @@ caption:
   subtitle: Rheology Comics 3
   thumbnail: /assets/img/portfolio/RC3-thumbnail.webp
 ---
-A simulation is more than just fantasy! Computer simulations are an important part of rheology research, but why? And what actually are they? Join the adventure to face off with monstrous models and other-worldy AI, and then start designing your own simulations.
+A simulation is more than just fantasy! Computer simulations are an important part of rheology research, but why? And what actually are they? Join the adventure to face off with monstrous models and other-worldy AI, then start designing your own simulations.
 
 {:.list-inline}
 - English: [WEB](/comic3-english) &#x2022; [CBZ]({{ site.url }}/downloads/comic3-english/RC3-English.cbz) &#x2022; [PDF]({{ site.url }}/downloads/comic3-english/RC3-English.pdf)
